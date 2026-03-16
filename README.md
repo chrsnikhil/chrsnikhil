@@ -2,24 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrsnikhil&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Nikhil" alt="Name" />
 
-<div align="center">
-
-```
-                     chrsnikhil@github
-                     -----------------
-  ______  _   _      OS:       Full-Stack Developer
- /  ____|| \ | |     Host:     The Internet
- | |     |  \| |     Kernel:   Next.js 14 / Node 20
- | |     | . ` |     Uptime:   caffeinated since birth
- | |____ | |\  |     Packages: 2048 (npm)
-  \______||_| \_|    Shell:    zsh 5.9
-                     Theme:    Tokyo Night
-                     Memory:   always at capacity
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Blockchain+Explorer;Agentic+Systems+Builder;Hackathon+Grinder;Open+Source+Contributor" alt="Roles" />
 
 </div>
 
@@ -73,7 +60,7 @@
 
 ---
 
-<!-- ROW 4 — TROPHIES -->
+<!-- ROW 5 — TROPHIES -->
 
 ## trophies
 
@@ -85,7 +72,7 @@
 
 ---
 
-<!-- ROW 5 — ACTIVITY -->
+<!-- ROW 6 — ACTIVITY -->
 
 ## activity
 
@@ -94,24 +81,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrsnikhil&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-<!-- ROW 6 — CONTRIBUTIONS SNAKE -->
-
-## contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrsnikhil/chrsnikhil/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrsnikhil/chrsnikhil/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/chrsnikhil/chrsnikhil/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> requires [platane/snk](https://github.com/platane/snk) GitHub Action to generate the SVG
 
 ---
 
