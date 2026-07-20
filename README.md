@@ -8,11 +8,32 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Blockchain+Explorer;Agentic+Systems+Builder;Hackathon+Grinder;Open+Source+Contributor" alt="Roles" />
 
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/chrsnikhil?style=flat-square&logo=github&color=00d9ff&labelColor=0d1117)](https://github.com/chrsnikhil?tab=followers)
+![Based in Chennai, India](https://img.shields.io/badge/based%20in-Chennai%2C%20India-00d9ff?style=flat-square)
+
 </div>
 
 ---
 
-<!-- ROW 1 — STATS -->
+<!-- WHOAMI -->
+
+## whoami
+
+```js
+const nikhil = {
+  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  focus: ["Web3", "AI Agents", "Full-Stack Systems"],
+  currentlyBuilding: "agentic tooling + blockchain experiments",
+  hackathonsShipped: 5,
+  status: "probably mid-deploy on vercel"
+};
+```
+
+---
+
+<!-- STATS -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top" align="center">
@@ -30,7 +51,7 @@
 
 ---
 
-<!-- ROW 2 — STREAK -->
+<!-- STREAK -->
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=chrsnikhil&theme=tokyonight&hide_border=true&card_width=700&fire=DD2727&ring=00D9FF&currStreakLabel=00D9FF" />
@@ -39,7 +60,27 @@
 
 ---
 
-<!-- ROW 3 — FEATURED PROJECTS -->
+<!-- HACKATHONS -->
+
+## hackathons
+
+<div align="center">
+
+| event | focus | prize pool |
+|:--|:--|:--:|
+| [Electroneum Hackathon 2025](https://electroneum-hackathon-2025.devpost.com/) | blockchain apps | $52,500 |
+| [Agent Development Kit Hackathon — Google Cloud](https://googlecloudmultiagents.devpost.com/) | multi-agent AI systems | $50,000 |
+| [Hack Reddit 2025](https://hackreddit.devpost.com/) | games & experiences | $36,000 |
+| [AWS Lambda Hackathon](https://awslambdahackathon.devpost.com/) | serverless at scale | $15,000 |
+| [PortXFolio](https://portxfolio25.devpost.com/) | portfolio design | $5,600 |
+
+<sub>5 events shipped, 5 achievements earned — full history on <a href="https://devpost.com/chrsnikhil">devpost</a></sub>
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
 
 ## featured projects
 
@@ -58,9 +99,11 @@
 </tr>
 </table>
 
+<div align="center"><sub>cards sync live from GitHub — <a href="https://github.com/chrsnikhil?tab=repositories">browse all repos →</a></sub></div>
+
 ---
 
-<!-- ROW 5 — TROPHIES -->
+<!-- TROPHIES -->
 
 ## trophies
 
@@ -72,7 +115,7 @@
 
 ---
 
-<!-- ROW 6 — ACTIVITY -->
+<!-- ACTIVITY -->
 
 ## activity
 
@@ -80,11 +123,21 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrsnikhil&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/chrsnikhil/chrsnikhil/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
 </div>
+
+<!--
+  the snake above needs a one-time setup before it will render:
+  add .github/workflows/snake.yml using https://github.com/Platane/snk#with-github-action
+  it regenerates on a schedule once the action has run at least once
+-->
 
 ---
 
-<!-- ROW 7 — ARSENAL -->
+<!-- ARSENAL -->
 
 ## arsenal
 
@@ -144,6 +197,8 @@
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-%23000000.svg?style=flat-square&logo=gamemaker&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser-%23DD5533.svg?style=flat-square&logo=phaser&logoColor=white)
 
 </td>
 </tr>
@@ -151,17 +206,16 @@
 
 ---
 
-<!-- ROW 8 — CONNECT + QUOTE -->
+<!-- CONNECT + QUOTE -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ## connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-rho-78.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-nikhil-6883ba290/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/chrsnikhil)
 
 </td>
 <td width="50%" valign="top">
@@ -178,3 +232,13 @@
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+
+<sub>thanks for scrolling this far — now go build something ⚡</sub>
+
+</div>
