@@ -1,0 +1,1420 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 763" width="768" height="763" role="img" aria-label="ASCII skull">
+<style>text{font-family:Consolas,"Cascadia Mono",Menlo,"DejaVu Sans Mono","Liberation Mono",monospace;font-size:10px;font-weight:700}</style>
+<defs>
+<clipPath id="card"><rect width="768" height="763" rx="14"/></clipPath>
+<clipPath id="intro"><circle cx="360" cy="393" r="0"><animate attributeName="r" values="0;1015" dur="1.8s" begin="0.2s" fill="freeze"/></circle></clipPath>
+<g id="rings"><circle id="ring0" r="0" fill="none" stroke-width="10"><animate attributeName="cx" values="411;405;411;411;477;525;453" calcMode="discrete" dur="46.9s" begin="2.77s" repeatCount="indefinite"/><animate attributeName="cy" values="313.5;478.5;599.5;621.5;445.5;401.5;401.5" calcMode="discrete" dur="46.9s" begin="2.77s" repeatCount="indefinite"/><animate attributeName="r" values="0;264;264" keyTimes="0;0.2388;1" dur="6.7s" begin="2.77s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="8;26;26" keyTimes="0;0.2388;1" dur="6.7s" begin="2.77s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" keyTimes="0;0.2388;1" dur="6.7s" begin="2.77s" repeatCount="indefinite"/></circle><circle id="ring1" r="0" fill="none" stroke-width="10"><animate attributeName="cx" values="387;369;531;237;453;315;453" calcMode="discrete" dur="63.699999999999996s" begin="6.85s" repeatCount="indefinite"/><animate attributeName="cy" values="621.5;533.5;423.5;511.5;302.5;610.5;588.5" calcMode="discrete" dur="63.699999999999996s" begin="6.85s" repeatCount="indefinite"/><animate attributeName="r" values="0;307;307" keyTimes="0;0.1758;1" dur="9.1s" begin="6.85s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="8;26;26" keyTimes="0;0.1758;1" dur="9.1s" begin="6.85s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" keyTimes="0;0.1758;1" dur="9.1s" begin="6.85s" repeatCount="indefinite"/></circle><circle id="ring2" r="0" fill="none" stroke-width="10"><animate attributeName="cx" values="327;381;507;399;417;195;519" calcMode="discrete" dur="86.10000000000001s" begin="6.05s" repeatCount="indefinite"/><animate attributeName="cy" values="489.5;379.5;313.5;126.5;302.5;423.5;390.5" calcMode="discrete" dur="86.10000000000001s" begin="6.05s" repeatCount="indefinite"/><animate attributeName="r" values="0;265;265" keyTimes="0;0.1301;1" dur="12.3s" begin="6.05s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="8;26;26" keyTimes="0;0.1301;1" dur="12.3s" begin="6.05s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" keyTimes="0;0.1301;1" dur="12.3s" begin="6.05s" repeatCount="indefinite"/></circle></g>
+<circle id="lensRim" r="0" fill="none" stroke-width="0"><animateMotion path="M465,446 C455,424 378,363 369,336 C360,308 403,286 411,280 C419,275 428,246 417,302 C406,359 343,594 345,622 C347,649 409,497 429,468 C449,438 475,468 465,446Z" dur="31.0s" repeatCount="indefinite"/><animate attributeName="r" values="0;0;108;108;0;0;108;108;0;0" keyTimes="0;0.2061;0.2223;0.3287;0.3449;0.7468;0.763;0.8694;0.8855;1" dur="31.0s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="0;0;14.3;14.3;0;0;14.3;14.3;0;0" keyTimes="0;0.2061;0.2223;0.3287;0.3449;0.7468;0.763;0.8694;0.8855;1" dur="31.0s" repeatCount="indefinite"/></circle>
+<clipPath id="lensClip"><circle r="0"><animateMotion path="M465,446 C455,424 378,363 369,336 C360,308 403,286 411,280 C419,275 428,246 417,302 C406,359 343,594 345,622 C347,649 409,497 429,468 C449,438 475,468 465,446Z" dur="31.0s" repeatCount="indefinite"/><animate attributeName="r" values="0;0;100.8;100.8;0;0;100.8;100.8;0;0" keyTimes="0;0.2061;0.2223;0.3287;0.3449;0.7468;0.763;0.8694;0.8855;1" dur="31.0s" repeatCount="indefinite"/></circle></clipPath>
+<mask id="scrMask" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="715">
+<use href="#rings" xlink:href="#rings" stroke="#fff"/>
+<use href="#lensRim" xlink:href="#lensRim" stroke="#fff"/>
+<circle cx="360" cy="393" r="0" fill="none" stroke="#fff" stroke-width="30"><animate attributeName="r" values="0;1015" dur="1.8s" begin="0.2s" fill="freeze"/><animate attributeName="stroke-opacity" values="1;1;0" keyTimes="0;0.8;1" dur="2s" begin="0.2s" fill="freeze"/></circle>
+</mask>
+<mask id="glintMask" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="715">
+<path d="M0,408 L24,408 L88,300 L64,300Z" fill="#fff"><animateTransform attributeName="transform" type="translate" values="84,0;576,0;576,0" keyTimes="0;0.12;1" dur="7.3s" begin="3.1s" repeatCount="indefinite"/></path>
+</mask>
+<radialGradient id="shade"><stop offset="0" stop-color="#06080b" stop-opacity="0"/><stop offset="0.22" stop-color="#06080b" stop-opacity="0"/><stop offset="0.65" stop-color="#06080b" stop-opacity="0.26"/><stop offset="1" stop-color="#06080b" stop-opacity="0.38"/></radialGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffd9a0" stop-opacity="0.09"/><stop offset="1" stop-color="#ffd9a0" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#card)">
+<rect width="768" height="763" fill="#06080b"/>
+<g transform="translate(24,24)">
+<g transform="translate(360,358)"><g><animateTransform attributeName="transform" type="skewX" values="0;0.8;0;-0.8;0" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1;.45 0 .55 1" dur="14s" repeatCount="indefinite"/><g transform="translate(-360,-358)">
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="1.5s" begin="0.6s" fill="freeze"/>
+<text x="30 588 132 690 84 708 48 54 444 42 12 558 54 270 204 654 576" y="382 96 613 74 30 558 129 492 690 646 85 514 19 19 580 107 547" fill="#2a3442" opacity="0.2">.........+....+.+<animate attributeName="opacity" values="0.15;0.9;0.15" dur="5.72s" begin="4.49s" repeatCount="indefinite"/></text>
+<text x="276 36 108 108 606 564 78 714 84 630 150 126 186 606 6 666 612" y="19 459 239 140 602 140 316 580 415 261 602 657 624 668 294 338 624" fill="#2a3442" opacity="0.2">...+............+<animate attributeName="opacity" values="0.15;0.9;0.15" dur="6.60s" begin="6.67s" repeatCount="indefinite"/></text>
+<text x="642 522 0 12 198 510 252 564 516 300 6 588 504 72 252 186" y="129 668 206 393 536 591 646 85 602 8 195 668 19 624 624 63" fill="#2a3442" opacity="0.2">...............+<animate attributeName="opacity" values="0.15;0.9;0.15" dur="6.43s" begin="3.68s" repeatCount="indefinite"/></text>
+<text x="672 612 702 600 642 96 600 120 108 510 582 354 12 666 30 624" y="283 195 294 657 283 63 514 129 107 679 492 679 448 272 580 492" fill="#2a3442" opacity="0.2">.......+........<animate attributeName="opacity" values="0.15;0.9;0.15" dur="9.07s" begin="4.87s" repeatCount="indefinite"/></text>
+<text x="180 684 648 642 18 612 48 606 714 120 30 90 570 0 636 204" y="492 646 63 41 382 470 657 52 349 591 624 162 690 96 657 712" fill="#2a3442" opacity="0.2">................<animate attributeName="opacity" values="0.15;0.9;0.15" dur="5.67s" begin="7.40s" repeatCount="indefinite"/></text>
+<text x="306 606 324 702 198 636 66 30 96 606 12 36 156 540 84 648" y="8 107 8 613 646 624 459 657 701 536 712 228 580 85 646 118" fill="#2a3442" opacity="0.2">................<animate attributeName="opacity" values="0.15;0.9;0.15" dur="11.90s" begin="3.89s" repeatCount="indefinite"/></text>
+<text x="186 6 654 306 78 54 714 522 30 534 612 114 54 678 156 186" y="492 96 85 657 547 459 250 635 195 580 140 404 316 327 569 657" fill="#2a3442" opacity="0.2">+...............<animate attributeName="opacity" values="0.15;0.9;0.15" dur="10.12s" begin="5.57s" repeatCount="indefinite"/></text>
+<text x="192 186 96 24 606 564 486 696 546 0 708 12 498 702 708 198" y="514 547 613 129 657 470 679 404 701 140 459 701 635 492 591 624" fill="#2a3442" opacity="0.2">................<animate attributeName="opacity" values="0.15;0.9;0.15" dur="5.10s" begin="3.69s" repeatCount="indefinite"/></text>
+</g>
+<g clip-path="url(#intro)">
+<text x="396" y="41" fill="#223">.</text>
+<text x="390" y="41" fill="#333">.</text>
+<text x="306 312 318 336 342 354 360 366 372 378 384" y="41" fill="#444">...........</text>
+<text x="324 330 348" y="41" fill="#445">...</text>
+<text x="276 420" y="52" fill="#333">..</text>
+<text x="282 348 360" y="52" fill="#334">...</text>
+<text x="312 324 330 336 354 366 372 378 384 390 408 414" y="52" fill="#444">:.:.:::.::..</text>
+<text x="288 306 342 396 402" y="52" fill="#445">:::::</text>
+<text x="294 300 318" y="52" fill="#555">:::</text>
+<text x="252 450" y="63" fill="#222">..</text>
+<text x="258 444" y="63" fill="#333">..</text>
+<text x="318 336 348 360 366 372" y="63" fill="#334">......</text>
+<text x="264 282 294 300 306 312 324 330 342 354 378 384 390 396 402 408 414 432 438" y="63" fill="#444">.::::::.::...:::::.</text>
+<text x="288 420 426" y="63" fill="#445">:::</text>
+<text x="270 276" y="63" fill="#555">::</text>
+<text x="306 318 348 360 366 372 468" y="74" fill="#333">.......</text>
+<text x="330 336 342 378 384 390 396 402 414" y="74" fill="#334">.........</text>
+<text x="234" y="74" fill="#344">.</text>
+<text x="240 246 264 270 276 282 288 294 300 312 324 354 408 420 426 432 438 444 450 462" y="74" fill="#444">.::::....:..::.::::.</text>
+<text x="456" y="74" fill="#445">:</text>
+<text x="258" y="74" fill="#455">:</text>
+<text x="252" y="74" fill="#555">:</text>
+<text x="306 360" y="85" fill="#223">..</text>
+<text x="276 318 330 336 342 348 354 366 372 378 384 390 396 402 414 426 486" y="85" fill="#333">.................</text>
+<text x="288 294 300 312 324 408" y="85" fill="#334">......</text>
+<text x="222 246 252 258 264 270 282 420 432 438 444 450 456 462 468 474 480" y="85" fill="#444">.:::::.:::::::::.</text>
+<text x="228 234 240" y="85" fill="#555">:::</text>
+<text x="264 276 288 294 306 396 414 426 432 438 444 498" y="96" fill="#333">............</text>
+<text x="252 270 282 330 420 456" y="96" fill="#334">......</text>
+<text x="210 234 240 246 258 300 312 318 324 336 342 348 354 360 366 372 378 384 390 402 408 450 462 468 474 480 486 492" y="96" fill="#444">.:::.::.:::::.:.:::..:::::::</text>
+<text x="216 222" y="96" fill="#545">::</text>
+<text x="228" y="96" fill="#555">:</text>
+<text x="198" y="107" fill="#323">.</text>
+<text x="240 246 252 300 306 318 360 372 384 396 402 408 414 450 456 468 510" y="107" fill="#333">.......::........</text>
+<text x="234 258 276 294 312 330 336 390 444 462" y="107" fill="#334">.....::...</text>
+<text x="204 210 222 228 264 282 288 324 342 354 366 378 420 426 432 438 474 480 486 498 504" y="107" fill="#444">::::..:::-:::..:..::.</text>
+<text x="270 492" y="107" fill="#445">::</text>
+<text x="216" y="107" fill="#544">:</text>
+<text x="348" y="107" fill="#aaa">*</text>
+<text x="222 228 264 276 294 306 414 444 480 486 516" y="118" fill="#333">...........</text>
+<text x="234 270 282 288 408 426 432 438 474 492" y="118" fill="#334">..........</text>
+<text x="396 402 420" y="118" fill="#434">\\.</text>
+<text x="192 210 216 240 246 252 258 300 312 318 450 456 462 468 498" y="118" fill="#444">.::::...::.::..</text>
+<text x="504 510" y="118" fill="#445">::</text>
+<text x="198 204" y="118" fill="#555">::</text>
+<text x="390" y="118" fill="#777">-</text>
+<text x="372 378" y="118" fill="#878">--</text>
+<text x="324 330 336 366" y="118" fill="#888">++/\</text>
+<text x="342 384" y="118" fill="#999">/-</text>
+<text x="360" y="118" fill="#bbb">\</text>
+<text x="354" y="118" fill="#ccc">#</text>
+<text x="348" y="118" fill="#fff">-</text>
+<text x="210 240 252 312 408 414 498 528" y="129" fill="#333">...:....</text>
+<text x="246 264 270 276 288 294 300 306 432 450 474 504" y="129" fill="#334">............</text>
+<text x="204" y="129" fill="#344">.</text>
+<text x="420" y="129" fill="#434">.</text>
+<text x="186 198 216 222 228 234 258 282 426 438 444 456 462 468 480 486 492 510 522" y="129" fill="#444">.::.:...::...:::.::</text>
+<text x="516" y="129" fill="#455">:</text>
+<text x="192 318" y="129" fill="#555">::</text>
+<text x="324" y="129" fill="#888">|</text>
+<text x="330 366" y="129" fill="#aaa">**</text>
+<text x="396" y="129" fill="#bbb">o</text>
+<text x="336" y="129" fill="#ccc">|</text>
+<text x="372 402" y="129" fill="#ddd">#\</text>
+<text x="360" y="129" fill="#eee">|</text>
+<text x="354 390" y="129" fill="#fee">%%</text>
+<text x="342 348 378 384" y="129" fill="#fff">@@@@</text>
+<text x="222 228 246 270 282 300 408 414 420 426 438 492 510 516 534" y="140" fill="#333">......|........</text>
+<text x="234 252 264 288 294 444 450 474 480" y="140" fill="#334">.........</text>
+<text x="180 186 192 198 204 210 216 240 258 276 306 432 456 462 468 486 504 522 528" y="140" fill="#444">:::.:.....:.....:::</text>
+<text x="498" y="140" fill="#445">:</text>
+<text x="312" y="140" fill="#555">:</text>
+<text x="360" y="140" fill="#767">/</text>
+<text x="330 378" y="140" fill="#777">==</text>
+<text x="366 384" y="140" fill="#888">/+</text>
+<text x="324 372" y="140" fill="#999">++</text>
+<text x="354" y="140" fill="#a99">*</text>
+<text x="342 402" y="140" fill="#aaa">\*</text>
+<text x="390" y="140" fill="#baa">o</text>
+<text x="318" y="140" fill="#bbb">o</text>
+<text x="348" y="140" fill="#ddd">%</text>
+<text x="336 396" y="140" fill="#eee">\%</text>
+<text x="168" y="151" fill="#222">.</text>
+<text x="210 246 252 258 264 270 282 342 354 360 366 372 378 384 396 414 438 450 456 522 540" y="151" fill="#333">.......--.-----......</text>
+<text x="204 222 228 234 306 318 324 426 432 462 474 480 492" y="151" fill="#334">.............</text>
+<text x="186 198 216 240 276 288 294 300 312 330 348 390 420 444 468 486 498 504 510 516 528 534" y="151" fill="#444">.::.:...:.-\.::...::.:</text>
+<text x="180 192" y="151" fill="#544">::</text>
+<text x="174 336" y="151" fill="#555">:-</text>
+<text x="408" y="151" fill="#666">|</text>
+<text x="402" y="151" fill="#888">/</text>
+<text x="162 330 336 342 348 354 360 366 372 378 384 414" y="162" fill="#222">............</text>
+<text x="318 324" y="162" fill="#223">..</text>
+<text x="192 198 222 234 246 294 300 306 312 390 396 420 426 486 546" y="162" fill="#333">...............</text>
+<text x="204 210 240 270 276 282 288 438 450 468 474 480 492 510 516 534" y="162" fill="#334">................</text>
+<text x="174 180 186 216 228 252 258 264 402 432 444 456 462 498 504 522 540" y="162" fill="#444">:::::...:......::</text>
+<text x="168 528" y="162" fill="#445">::</text>
+<text x="408" y="162" fill="#888">+</text>
+<text x="156 288 300 342 360 366 372 378 384 390 396 402 408 552" y="173" fill="#222">..............</text>
+<text x="282 294 306 330 414" y="173" fill="#223">.....</text>
+<text x="210 258 264 270 312 318 324 336 348 354 432 444 450 456 492 498" y="173" fill="#333">................</text>
+<text x="180 186 192 198 204 222 234 252 276 426 438 462 468 474 480 486 504 510 540 546" y="173" fill="#334">....................</text>
+<text x="162 174 216 228 240 246 420 516 522 528 534" y="173" fill="#444">::.::.....:</text>
+<text x="168" y="173" fill="#445">:</text>
+<text x="360 366 378 450 456" y="184" fill="#222">.....</text>
+<text x="246 384 408 414 420 444" y="184" fill="#223">......</text>
+<text x="234 240 252 288 354 372 390 468 474 504 522 552" y="184" fill="#333">............</text>
+<text x="186 192 198 204 216 222 228 294 348 462 480 486 492 498 510 516 528 540" y="184" fill="#334">..................</text>
+<text x="156 168 174 180 210 258 264 270 282 318 342 402 534 546" y="184" fill="#444">.::...::.....:</text>
+<text x="276 426 438" y="184" fill="#445">:::</text>
+<text x="162 300 306 324 336 396 432" y="184" fill="#555">::-:-::</text>
+<text x="312" y="184" fill="#556">-</text>
+<text x="330" y="184" fill="#667">-</text>
+<text x="384 390" y="195" fill="#222">..</text>
+<text x="228 342 348 366 396" y="195" fill="#223">.....</text>
+<text x="180 222 252 414 480 486 492 516 522 558" y="195" fill="#333">..........</text>
+<text x="186 192 210 234 360 426 462 504 510 528 534 546" y="195" fill="#334">............</text>
+<text x="150 156 162 168 174 198 204 216 246 264 270 306 336 354 372 408 420 456 468 474 498 540 552" y="195" fill="#444">.:.:::..:::.:..:......:</text>
+<text x="288 300 432" y="195" fill="#445">:::</text>
+<text x="240 258 276 282 312 318 450" y="195" fill="#555">:::::::</text>
+<text x="378" y="195" fill="#556">-</text>
+<text x="294 324 330 402" y="195" fill="#666">----</text>
+<text x="444" y="195" fill="#667">-</text>
+<text x="438" y="195" fill="#777">=</text>
+<text x="216 414 498" y="206" fill="#222">...</text>
+<text x="360 366 384" y="206" fill="#223">...</text>
+<text x="456" y="206" fill="#232">.</text>
+<text x="240" y="206" fill="#233">.</text>
+<text x="156 162 168 174 210 222 228 234 342 348 372 390 462 486 492 504 534 540" y="206" fill="#333">..................</text>
+<text x="204 354 420 510 528 546 552 558" y="206" fill="#334">........</text>
+<text x="468" y="206" fill="#344">.</text>
+<text x="264" y="206" fill="#434">.</text>
+<text x="144 150 180 186 192 258 300 324 336 396 408 426 432 438 450 480 516 522 564" y="206" fill="#444">.:...::::..:.::.::.</text>
+<text x="198" y="206" fill="#445">:</text>
+<text x="270" y="206" fill="#545">:</text>
+<text x="246 252 288 294 306 330 402 444 474" y="206" fill="#555">:-:::-::-</text>
+<text x="378" y="206" fill="#556">-</text>
+<text x="282" y="206" fill="#666">-</text>
+<text x="276" y="206" fill="#766">-</text>
+<text x="318" y="206" fill="#777">=</text>
+<text x="312" y="206" fill="#888">=</text>
+<text x="210 372 420" y="217" fill="#222">...</text>
+<text x="204 216" y="217" fill="#223">..</text>
+<text x="438" y="217" fill="#232">.</text>
+<text x="162 192 222 252 354 360 366 378 414 432 468 480 486" y="217" fill="#333">.............</text>
+<text x="156 186 198 348 510 516 528 540 546 564 570" y="217" fill="#334">...........</text>
+<text x="168 462" y="217" fill="#344">..</text>
+<text x="264" y="217" fill="#433">.</text>
+<text x="270" y="217" fill="#434">.</text>
+<text x="138 150 174 180 228 234 246 258 276 288 294 312 318 336 396 426 444 474 492 498 504 522 534 552 558" y="217" fill="#444">.:.::..::::::::::::::....</text>
+<text x="342" y="217" fill="#445">:</text>
+<text x="144 306" y="217" fill="#455">::</text>
+<text x="240 282 300 402" y="217" fill="#555">-::-</text>
+<text x="330 384 390 408 456" y="217" fill="#666">-----</text>
+<text x="324 450" y="217" fill="#777">==</text>
+<text x="396 402 420 516" y="228" fill="#222">....</text>
+<text x="522" y="228" fill="#223">.</text>
+<text x="132 156 222 252 258 270 282 294 300 414 426 504 510 528 570 576" y="228" fill="#333">................</text>
+<text x="288 354 390 558" y="228" fill="#334">....</text>
+<text x="306 438" y="228" fill="#344">..</text>
+<text x="480" y="228" fill="#433">.</text>
+<text x="210" y="228" fill="#434">.</text>
+<text x="138 144 150 162 168 174 180 186 192 198 204 216 228 264 276 312 348 372 444 450 456 468 486 534 540 546 552 564" y="228" fill="#444">::..::.:..:.:.::.:::.:.....:</text>
+<text x="474" y="228" fill="#545">:</text>
+<text x="246 342 366 408 462 498" y="228" fill="#555">::::-:</text>
+<text x="234 240 318 324 336 360 378 384 432 492" y="228" fill="#666">----------</text>
+<text x="330" y="228" fill="#777">=</text>
+<text x="186 192 384 390 414 432 582" y="239" fill="#222">.......</text>
+<text x="180 198" y="239" fill="#223">..</text>
+<text x="222 474" y="239" fill="#323">..</text>
+<text x="150 204 228 234 240 264 312 318 354 360 396 402 420 444 510 516 522 534" y="239" fill="#333">..................</text>
+<text x="174 528 540 558 564 576" y="239" fill="#334">......</text>
+<text x="324" y="239" fill="#344">.</text>
+<text x="210" y="239" fill="#433">.</text>
+<text x="216 480" y="239" fill="#434">..</text>
+<text x="132 138 144 156 162 168 258 270 282 288 294 300 306 342 348 366 372 378 426 438 450 468 486 492 498 504 546 552 570" y="239" fill="#444">.:.::.::.:::::::...::::::::::</text>
+<text x="246 252 276 336 408 462" y="239" fill="#555">--::::</text>
+<text x="330" y="239" fill="#556">-</text>
+<text x="456" y="239" fill="#666">-</text>
+<text x="414 420 450 534 582" y="250" fill="#222">.....</text>
+<text x="174 180 528 540" y="250" fill="#223">....</text>
+<text x="198" y="250" fill="#323">.</text>
+<text x="162 192 204 210 324 330 378 384 390 456 468 492 522 546" y="250" fill="#333">..............</text>
+<text x="186 438 552 570" y="250" fill="#334">....</text>
+<text x="168" y="250" fill="#433">.</text>
+<text x="234 246" y="250" fill="#434">..</text>
+<text x="132 144 150 216 240 258 270 276 312 318 360 366 372 402 408 432 444 462 474 486 510 516 558 564 576" y="250" fill="#444">:.::.::.:.:::::::::.:::.:</text>
+<text x="138 228" y="250" fill="#544">::</text>
+<text x="156 222 252 264 294 300 306 336 342 426 480 498" y="250" fill="#555">::-:-:::::::</text>
+<text x="354" y="250" fill="#565">-</text>
+<text x="288 348 396" y="250" fill="#666">---</text>
+<text x="282 504" y="250" fill="#777">==</text>
+<text x="126" y="261" fill="#112">.</text>
+<text x="168 174 540 582" y="261" fill="#222">....</text>
+<text x="546" y="261" fill="#223">.</text>
+<text x="510" y="261" fill="#322">.</text>
+<text x="204" y="261" fill="#323">.</text>
+<text x="474" y="261" fill="#332">.</text>
+<text x="162 180 186 198 210 228 234 252 264 288 306 342 348 354 360 366 372 378 414 462 492 498 504 528 534" y="261" fill="#333">.........................</text>
+<text x="246 426 552 558" y="261" fill="#334">....</text>
+<text x="216 258 270 282 336 384 438 480" y="261" fill="#433">........</text>
+<text x="222 516" y="261" fill="#434">..</text>
+<text x="132 138 144 150 156 192 240 276 300 312 330 402 408 420 432 456 486 564 570 576" y="261" fill="#444">:.::.:.:.:::...:::..</text>
+<text x="294 318 390 396 444 450 468 522" y="261" fill="#555">::::-:::</text>
+<text x="324" y="261" fill="#656">-</text>
+<text x="126" y="272" fill="#112">.</text>
+<text x="162 168 174 180 186 522 546 582" y="272" fill="#222">........</text>
+<text x="540 552" y="272" fill="#223">..</text>
+<text x="228 456 474" y="272" fill="#322">...</text>
+<text x="222" y="272" fill="#323">.</text>
+<text x="150 156 192 204 216 282 348 462 480 528 534 558 564" y="272" fill="#333">.....:.......</text>
+<text x="576" y="272" fill="#334">.</text>
+<text x="252 258 294 300 306 312 318 384 390 450 468" y="272" fill="#433">.......::..</text>
+<text x="234 486 504" y="272" fill="#434">...</text>
+<text x="276 288 378" y="272" fill="#443">::.</text>
+<text x="132 144 198 246 264 330 354 360 366 510 516 570" y="272" fill="#444">.:::.:.::..:</text>
+<text x="420" y="272" fill="#543">:</text>
+<text x="324 438 444" y="272" fill="#544">:::</text>
+<text x="210" y="272" fill="#545">:</text>
+<text x="342 372 396 432" y="272" fill="#554">::::</text>
+<text x="138 240 270 492 498" y="272" fill="#555">:-:::</text>
+<text x="414" y="272" fill="#654">-</text>
+<text x="336" y="272" fill="#655">-</text>
+<text x="402" y="272" fill="#754">-</text>
+<text x="426" y="272" fill="#765">-</text>
+<text x="408" y="272" fill="#976">=</text>
+<text x="126" y="283" fill="#212">.</text>
+<text x="156 162 168 582" y="283" fill="#222">....</text>
+<text x="480 492 510" y="283" fill="#322">...</text>
+<text x="228" y="283" fill="#332">:</text>
+<text x="144 150 174 192 198 204 216 222 486 498 504 528 570" y="283" fill="#333">.............</text>
+<text x="210 552 564" y="283" fill="#334">...</text>
+<text x="234 252 474" y="283" fill="#433">:-.</text>
+<text x="132 180 186 354 360 516 534 546 558 576" y="283" fill="#444">::.:::::.:</text>
+<text x="462" y="283" fill="#533">\</text>
+<text x="246 330 372" y="283" fill="#543">:::</text>
+<text x="240 270 276 384 468 522" y="283" fill="#544">:--:::</text>
+<text x="540" y="283" fill="#545">:</text>
+<text x="366 378" y="283" fill="#554">::</text>
+<text x="138" y="283" fill="#555">-</text>
+<text x="438 456" y="283" fill="#644">:\</text>
+<text x="258 312 324 390" y="283" fill="#654">-::/</text>
+<text x="264" y="283" fill="#655">-</text>
+<text x="348" y="283" fill="#665">-</text>
+<text x="450" y="283" fill="#754">-</text>
+<text x="282 306 318" y="283" fill="#765">---</text>
+<text x="294 432" y="283" fill="#865">-\</text>
+<text x="336 342 444" y="283" fill="#876">==-</text>
+<text x="300" y="283" fill="#877">=</text>
+<text x="288" y="283" fill="#976">-</text>
+<text x="396" y="283" fill="#a86">/</text>
+<text x="420 426" y="283" fill="#b97">-\</text>
+<text x="408" y="283" fill="#db9">-</text>
+<text x="414" y="283" fill="#eca">-</text>
+<text x="402" y="283" fill="#fdb">/</text>
+<text x="546 552 558" y="294" fill="#222">...</text>
+<text x="150 156" y="294" fill="#223">..</text>
+<text x="126 180 534 540" y="294" fill="#322">|...</text>
+<text x="210" y="294" fill="#323">:</text>
+<text x="162 174 198 204 516 522 564 570 582" y="294" fill="#333">..:......</text>
+<text x="144 504" y="294" fill="#334">..</text>
+<text x="216" y="294" fill="#432">:</text>
+<text x="498 528" y="294" fill="#433">..</text>
+<text x="138" y="294" fill="#434">.</text>
+<text x="168 186 192 510 576" y="294" fill="#444">..:::</text>
+<text x="486" y="294" fill="#543">:</text>
+<text x="492" y="294" fill="#544">:</text>
+<text x="480" y="294" fill="#643">:</text>
+<text x="228" y="294" fill="#653">:</text>
+<text x="348 354" y="294" fill="#654">--</text>
+<text x="132" y="294" fill="#655">-</text>
+<text x="222 234" y="294" fill="#754">/-</text>
+<text x="468" y="294" fill="#755">-</text>
+<text x="246" y="294" fill="#764">-</text>
+<text x="474" y="294" fill="#765">-</text>
+<text x="342 366 444" y="294" fill="#865">--=</text>
+<text x="462" y="294" fill="#875">=</text>
+<text x="252" y="294" fill="#975">=</text>
+<text x="240 336 360" y="294" fill="#976">=--</text>
+<text x="378" y="294" fill="#986">-</text>
+<text x="270" y="294" fill="#a75">+</text>
+<text x="258" y="294" fill="#a86">+</text>
+<text x="372" y="294" fill="#a87">-</text>
+<text x="294 300 318 384 450" y="294" fill="#b98">*--/*</text>
+<text x="264" y="294" fill="#ba8">*</text>
+<text x="324" y="294" fill="#ba9">-</text>
+<text x="456" y="294" fill="#c98">*</text>
+<text x="276 438" y="294" fill="#ca8">*o</text>
+<text x="312" y="294" fill="#ca9">-</text>
+<text x="282" y="294" fill="#db8">o</text>
+<text x="288" y="294" fill="#db9">o</text>
+<text x="330" y="294" fill="#dba">-</text>
+<text x="390 432" y="294" fill="#eca">/\</text>
+<text x="306" y="294" fill="#edb">-</text>
+<text x="402 426" y="294" fill="#ffd">@@</text>
+<text x="396" y="294" fill="#ffe">@</text>
+<text x="408 414 420" y="294" fill="#fff">@@@</text>
+<text x="150 156 162 558 564" y="305" fill="#222">.....</text>
+<text x="144 168" y="305" fill="#223">..</text>
+<text x="192 198 204 516 522" y="305" fill="#322">/-:-\</text>
+<text x="138 186 510 528 552 570 576" y="305" fill="#333">.:-....</text>
+<text x="126 540" y="305" fill="#433">..</text>
+<text x="210" y="305" fill="#443">:</text>
+<text x="174 180 504 534 546 582" y="305" fill="#444">.:::..</text>
+<text x="132" y="305" fill="#655">-</text>
+<text x="216" y="305" fill="#765">-</text>
+<text x="498" y="305" fill="#766">-</text>
+<text x="450 468 474" y="305" fill="#987">+++</text>
+<text x="234 300" y="305" fill="#a87">++</text>
+<text x="246 252 444 462 480 492" y="305" fill="#a98">***+++</text>
+<text x="306" y="305" fill="#b97">/</text>
+<text x="228 432 456 486" y="305" fill="#b98">*|**</text>
+<text x="222 240" y="305" fill="#ba8">**</text>
+<text x="264 438" y="305" fill="#ba9">oo</text>
+<text x="426" y="305" fill="#cb9">o</text>
+<text x="258 270" y="305" fill="#cba">oo</text>
+<text x="312 366" y="305" fill="#db9">oo</text>
+<text x="420" y="305" fill="#dba">o</text>
+<text x="276" y="305" fill="#dca">#</text>
+<text x="360" y="305" fill="#ec9">#</text>
+<text x="282 294 330" y="305" fill="#eca">|##</text>
+<text x="348" y="305" fill="#fca">#</text>
+<text x="288" y="305" fill="#fdb">#</text>
+<text x="336" y="305" fill="#fdc">%</text>
+<text x="324 342 414" y="305" fill="#fec">%%%</text>
+<text x="318" y="305" fill="#fed">@</text>
+<text x="354" y="305" fill="#ffc">@</text>
+<text x="372 396 408" y="305" fill="#ffd">@@@</text>
+<text x="378 384 390 402" y="305" fill="#fff">@@@@</text>
+<text x="150" y="316" fill="#212">.</text>
+<text x="156 540" y="316" fill="#222">..</text>
+<text x="144" y="316" fill="#223">.</text>
+<text x="468" y="316" fill="#233">.</text>
+<text x="180" y="316" fill="#332">:</text>
+<text x="138 162 174 246 252 258 264 270 444 450 456 462 474 546 552 558 564 570 576" y="316" fill="#333">..:.----.---.......</text>
+<text x="534" y="316" fill="#433">.</text>
+<text x="168 240" y="316" fill="#434">..</text>
+<text x="276 582" y="316" fill="#444">\:</text>
+<text x="126 132" y="316" fill="#544">::</text>
+<text x="234 438 480" y="316" fill="#555">//\</text>
+<text x="228 282" y="316" fill="#666">-\</text>
+<text x="432" y="316" fill="#766">/</text>
+<text x="486" y="316" fill="#777">|</text>
+<text x="426 528" y="316" fill="#887">/\</text>
+<text x="522" y="316" fill="#987">\</text>
+<text x="210 222 492" y="316" fill="#988">\++</text>
+<text x="288 420" y="316" fill="#999">+*</text>
+<text x="186" y="316" fill="#a98">/</text>
+<text x="216 504" y="316" fill="#a99">*/</text>
+<text x="294 498" y="316" fill="#bbb">oo</text>
+<text x="192" y="316" fill="#cba">/</text>
+<text x="414" y="316" fill="#cbb">o</text>
+<text x="372" y="316" fill="#db9">o</text>
+<text x="342 378" y="316" fill="#dca">#o</text>
+<text x="324 336" y="316" fill="#dcb">##</text>
+<text x="510" y="316" fill="#dcc">#</text>
+<text x="408" y="316" fill="#ddc">#</text>
+<text x="318" y="316" fill="#ddd">#</text>
+<text x="348" y="316" fill="#ecb">#</text>
+<text x="204" y="316" fill="#edb">\</text>
+<text x="330 366 396" y="316" fill="#edc">#%%</text>
+<text x="300 402" y="316" fill="#edd">%%</text>
+<text x="360" y="316" fill="#fdc">%</text>
+<text x="354 384 390" y="316" fill="#fed">%%%</text>
+<text x="306 516" y="316" fill="#ffe">@@</text>
+<text x="198 312" y="316" fill="#fff">@@</text>
+<text x="150 252 258 468 474 540 558 564 570 588" y="327" fill="#222">..........</text>
+<text x="144 174 246" y="327" fill="#223">.:.</text>
+<text x="156" y="327" fill="#323">.</text>
+<text x="138 168 264 270 384 444 450 456 462 480 546 576" y="327" fill="#333">....-.......</text>
+<text x="162" y="327" fill="#434">.</text>
+<text x="132" y="327" fill="#443">.</text>
+<text x="234 240 276 336 438 552 582" y="327" fill="#444">/::-:..</text>
+<text x="126" y="327" fill="#544">:</text>
+<text x="372 378" y="327" fill="#555">/-</text>
+<text x="330 534" y="327" fill="#655">/-</text>
+<text x="228" y="327" fill="#656">|</text>
+<text x="282 342 348 366 432" y="327" fill="#666">\\\--</text>
+<text x="180 390" y="327" fill="#766">-\</text>
+<text x="354 426 486" y="327" fill="#777">=/|</text>
+<text x="288" y="327" fill="#778">\</text>
+<text x="324" y="327" fill="#887">/</text>
+<text x="210 222" y="327" fill="#888">\+</text>
+<text x="528" y="327" fill="#987">|</text>
+<text x="420" y="327" fill="#998">/</text>
+<text x="360 492" y="327" fill="#999">+*</text>
+<text x="294 414" y="327" fill="#aa9">\/</text>
+<text x="216" y="327" fill="#aaa">o</text>
+<text x="522" y="327" fill="#ba9">*</text>
+<text x="396" y="327" fill="#baa">\</text>
+<text x="186" y="327" fill="#cba">|</text>
+<text x="300 318 498" y="327" fill="#cbb">ooo</text>
+<text x="408" y="327" fill="#dcc">#</text>
+<text x="510" y="327" fill="#ddc">#</text>
+<text x="306" y="327" fill="#edc">#</text>
+<text x="204 312 402" y="327" fill="#edd">%%%</text>
+<text x="504" y="327" fill="#eed">%</text>
+<text x="192" y="327" fill="#fdb">%</text>
+<text x="198 516" y="327" fill="#ffe">@@</text>
+<text x="456" y="338" fill="#122">.</text>
+<text x="150 168 174 252 258 270 282 438 450 462 540 546 552 558 564 570 588" y="338" fill="#222">.................</text>
+<text x="144 276" y="338" fill="#223">..</text>
+<text x="480" y="338" fill="#322">.</text>
+<text x="156 444" y="338" fill="#323">..</text>
+<text x="474" y="338" fill="#332">.</text>
+<text x="138 162 234 240 246 264 468 576" y="338" fill="#333">........</text>
+<text x="582" y="338" fill="#334">.</text>
+<text x="132 432" y="338" fill="#433">..</text>
+<text x="330 420 426" y="338" fill="#444">:::</text>
+<text x="126 294" y="338" fill="#544">:\</text>
+<text x="336 384" y="338" fill="#554">::</text>
+<text x="228 288 378" y="338" fill="#555">-:-</text>
+<text x="534" y="338" fill="#655">-</text>
+<text x="180 516" y="338" fill="#665">--</text>
+<text x="324 372 396 486" y="338" fill="#666">/|\-</text>
+<text x="522" y="338" fill="#765">/</text>
+<text x="300 312 318 408 414 528" y="338" fill="#766">\-/-//</text>
+<text x="222 342 402" y="338" fill="#777">==-</text>
+<text x="216 498" y="338" fill="#877">|\</text>
+<text x="306" y="338" fill="#887">-</text>
+<text x="390" y="338" fill="#888">=</text>
+<text x="492" y="338" fill="#988">\</text>
+<text x="210 348" y="338" fill="#999">*|</text>
+<text x="192" y="338" fill="#a87">\</text>
+<text x="366 504" y="338" fill="#aaa">**</text>
+<text x="186" y="338" fill="#b99">\</text>
+<text x="198" y="338" fill="#ba9">*</text>
+<text x="204" y="338" fill="#dcc">#</text>
+<text x="510" y="338" fill="#ddd">#</text>
+<text x="354" y="338" fill="#eee">%</text>
+<text x="360" y="338" fill="#fff">@</text>
+<text x="150 258 264 462" y="349" fill="#112">....</text>
+<text x="144 156 168 174 180 246 252 270 276 282 444 450 456 468 474 534 540 558 564" y="349" fill="#222">...................</text>
+<text x="162 570" y="349" fill="#223">..</text>
+<text x="186 240 522 528" y="349" fill="#322">../.</text>
+<text x="312" y="349" fill="#323">.</text>
+<text x="138 318 330 390 396 402 408 414 420 426 432 438 546 552 576" y="349" fill="#333">...............</text>
+<text x="192" y="349" fill="#432">\</text>
+<text x="132 288 300 306 324 372 480" y="349" fill="#433">.....|.</text>
+<text x="126 234" y="349" fill="#443">..</text>
+<text x="294 582" y="349" fill="#444">:.</text>
+<text x="228" y="349" fill="#544">:</text>
+<text x="216" y="349" fill="#554">|</text>
+<text x="222 378 384 498" y="349" fill="#555">---\</text>
+<text x="486" y="349" fill="#655">-</text>
+<text x="342 492" y="349" fill="#666">--</text>
+<text x="348" y="349" fill="#755">|</text>
+<text x="336" y="349" fill="#767">-</text>
+<text x="198" y="349" fill="#876">\</text>
+<text x="516" y="349" fill="#877">/</text>
+<text x="504" y="349" fill="#888">\</text>
+<text x="366" y="349" fill="#986">+</text>
+<text x="510" y="349" fill="#988">-</text>
+<text x="360" y="349" fill="#a87">+</text>
+<text x="210" y="349" fill="#aaa">*</text>
+<text x="354" y="349" fill="#b98">*</text>
+<text x="204" y="349" fill="#dca">#</text>
+<text x="258 264 270 444" y="360" fill="#112">....</text>
+<text x="288 456 462" y="360" fill="#212">...</text>
+<text x="144 150 174 252 276 282 294 426 432 438 450 468 522 528 534" y="360" fill="#222">...............</text>
+<text x="138 186 576" y="360" fill="#223">...</text>
+<text x="246 420" y="360" fill="#322">..</text>
+<text x="306 312" y="360" fill="#323">..</text>
+<text x="222" y="360" fill="#332">.</text>
+<text x="126 156 162 300 318 324 330 384 390 396 402 414 474 540 552 558 564 570 582" y="360" fill="#333">...................</text>
+<text x="180" y="360" fill="#334">.</text>
+<text x="192 240 408 498" y="360" fill="#433">...|</text>
+<text x="480" y="360" fill="#443">:</text>
+<text x="336 546" y="360" fill="#444">::</text>
+<text x="168" y="360" fill="#445">:</text>
+<text x="378" y="360" fill="#532">|</text>
+<text x="234" y="360" fill="#543">:</text>
+<text x="132 492 516" y="360" fill="#544">::|</text>
+<text x="216" y="360" fill="#555">|</text>
+<text x="198 228 486" y="360" fill="#654">|:-</text>
+<text x="510" y="360" fill="#765">-</text>
+<text x="504" y="360" fill="#777">=</text>
+<text x="342" y="360" fill="#865">|</text>
+<text x="204" y="360" fill="#876">=</text>
+<text x="210" y="360" fill="#987">+</text>
+<text x="372" y="360" fill="#b97">*</text>
+<text x="366" y="360" fill="#eec">%</text>
+<text x="348 360" y="360" fill="#fec">%@</text>
+<text x="354" y="360" fill="#fff">@</text>
+<text x="264 270 276 282" y="371" fill="#112">....</text>
+<text x="432 438 444 450" y="371" fill="#122">....</text>
+<text x="126 174 252 258 288 294 426 456 462 522 558 564 570" y="371" fill="#222">.............</text>
+<text x="144 186 300 318 528" y="371" fill="#223">.....</text>
+<text x="138" y="371" fill="#232">.</text>
+<text x="324 390" y="371" fill="#233">:\</text>
+<text x="180 396 402 420 534" y="371" fill="#322">.....</text>
+<text x="306 312 408 414" y="371" fill="#323">....</text>
+<text x="330" y="371" fill="#332">/</text>
+<text x="162 468 540 552 576 582" y="371" fill="#333">......</text>
+<text x="150" y="371" fill="#334">.</text>
+<text x="192 228 246" y="371" fill="#433">:..</text>
+<text x="156" y="371" fill="#434">.</text>
+<text x="486" y="371" fill="#443">.</text>
+<text x="132 168 546" y="371" fill="#444">:::</text>
+<text x="474" y="371" fill="#533">.</text>
+<text x="384 480" y="371" fill="#543">\:</text>
+<text x="240" y="371" fill="#544">:</text>
+<text x="492" y="371" fill="#566">-</text>
+<text x="234 516" y="371" fill="#654">:|</text>
+<text x="216 222" y="371" fill="#666">|-</text>
+<text x="336 510" y="371" fill="#865">/=</text>
+<text x="210" y="371" fill="#875">=</text>
+<text x="504" y="371" fill="#876">=</text>
+<text x="498" y="371" fill="#887">|</text>
+<text x="378" y="371" fill="#975">=</text>
+<text x="204" y="371" fill="#986">+</text>
+<text x="198" y="371" fill="#987">|</text>
+<text x="360" y="371" fill="#ba8">*</text>
+<text x="366" y="371" fill="#ba9">*</text>
+<text x="354" y="371" fill="#cb9">o</text>
+<text x="372" y="371" fill="#dba">o</text>
+<text x="342" y="371" fill="#fca">#</text>
+<text x="348" y="371" fill="#fdb">%</text>
+<text x="126" y="382" fill="#112">.</text>
+<text x="354" y="382" fill="#212">-</text>
+<text x="522" y="382" fill="#221">.</text>
+<text x="144 150 264 270 276 282 288 294 300 306 312 360 366 402 408 414 420 426 432 438 444 450 456 528 582" y="382" fill="#222">.........::--............</text>
+<text x="186 318 534" y="382" fill="#223">::.</text>
+<text x="138" y="382" fill="#232">.</text>
+<text x="174" y="382" fill="#233">.</text>
+<text x="180 546" y="382" fill="#322">..</text>
+<text x="258 540" y="382" fill="#323">..</text>
+<text x="396" y="382" fill="#332">\</text>
+<text x="156 162 168 462 552 558 564 570 576" y="382" fill="#333">.........</text>
+<text x="348" y="382" fill="#432">-</text>
+<text x="324" y="382" fill="#433">/</text>
+<text x="132 222 252" y="382" fill="#444">:.:</text>
+<text x="216" y="382" fill="#532">\</text>
+<text x="192 498" y="382" fill="#543">:/</text>
+<text x="234 240 246 372 468 474 480" y="382" fill="#544">:::::::</text>
+<text x="486" y="382" fill="#555">:</text>
+<text x="390" y="382" fill="#654">\</text>
+<text x="228" y="382" fill="#666">-</text>
+<text x="492" y="382" fill="#667">-</text>
+<text x="516" y="382" fill="#876">|</text>
+<text x="330" y="382" fill="#987">/</text>
+<text x="510" y="382" fill="#a86">+</text>
+<text x="384" y="382" fill="#c97">*</text>
+<text x="204" y="382" fill="#ca7">*</text>
+<text x="336" y="382" fill="#ca8">*</text>
+<text x="198" y="382" fill="#ca9">|</text>
+<text x="342" y="382" fill="#cba">o</text>
+<text x="210" y="382" fill="#db9">o</text>
+<text x="378" y="382" fill="#dba">o</text>
+<text x="504" y="382" fill="#eca">#</text>
+<text x="342 348" y="393" fill="#212">//</text>
+<text x="144 246 354 366 552 558 564" y="393" fill="#222">.:.....</text>
+<text x="174 186 228 234 372 534 570" y="393" fill="#223">.:..\..</text>
+<text x="468 474 522" y="393" fill="#322">::.</text>
+<text x="180 240 480 492" y="393" fill="#323">:::/</text>
+<text x="222" y="393" fill="#332">\</text>
+<text x="132 150 156 162 168 252 360 486 528 540 576" y="393" fill="#333">.....-.:...</text>
+<text x="408 462 546" y="393" fill="#433">.:.</text>
+<text x="312" y="393" fill="#434">:</text>
+<text x="402" y="393" fill="#443">\</text>
+<text x="138 258 306 450 456" y="393" fill="#444">.-:--</text>
+<text x="264 300 414" y="393" fill="#445">-::</text>
+<text x="378" y="393" fill="#544">|</text>
+<text x="420" y="393" fill="#545">:</text>
+<text x="270 276 282 288 294 426 432 444" y="393" fill="#555">----:---</text>
+<text x="438" y="393" fill="#556">-</text>
+<text x="318" y="393" fill="#654">/</text>
+<text x="192" y="393" fill="#876">/</text>
+<text x="516" y="393" fill="#976">|</text>
+<text x="396" y="393" fill="#a86">\</text>
+<text x="498" y="393" fill="#ba8">/</text>
+<text x="198 510" y="393" fill="#c97">|*</text>
+<text x="324" y="393" fill="#ca8">o</text>
+<text x="336" y="393" fill="#ca9">o</text>
+<text x="216" y="393" fill="#cb9">\</text>
+<text x="204" y="393" fill="#db8">o</text>
+<text x="330" y="393" fill="#ec9">#</text>
+<text x="384 390" y="393" fill="#fdb">%%</text>
+<text x="210 504" y="393" fill="#ffd">@@</text>
+<text x="342 348" y="404" fill="#111">..</text>
+<text x="174 354 366 534 540" y="404" fill="#222">:....</text>
+<text x="372 564" y="404" fill="#223">..</text>
+<text x="546" y="404" fill="#232">.</text>
+<text x="150 180 378" y="404" fill="#322">.:.</text>
+<text x="144 156 162 168 360 552 558 570" y="404" fill="#333">........</text>
+<text x="138" y="404" fill="#334">.</text>
+<text x="528" y="404" fill="#433">\</text>
+<text x="336" y="404" fill="#543">|</text>
+<text x="186" y="404" fill="#654">/</text>
+<text x="522" y="404" fill="#977">\</text>
+<text x="384" y="404" fill="#987">|</text>
+<text x="516" y="404" fill="#a86">|</text>
+<text x="270 330" y="404" fill="#a97">+*</text>
+<text x="246 264 450" y="404" fill="#a98">-++</text>
+<text x="444" y="404" fill="#b98">*</text>
+<text x="252 258" y="404" fill="#b99">**</text>
+<text x="438" y="404" fill="#ba8">*</text>
+<text x="240 456 462 468 474 480" y="404" fill="#ba9">-*----</text>
+<text x="510" y="404" fill="#ca7">*</text>
+<text x="234 276 282" y="404" fill="#ca9">-o*</text>
+<text x="294 432" y="404" fill="#cb9">-o</text>
+<text x="192 288 420 426" y="404" fill="#db9">/o-o</text>
+<text x="228 300 414" y="404" fill="#dba">\--</text>
+<text x="486" y="404" fill="#dca">-</text>
+<text x="198" y="404" fill="#eb8">o</text>
+<text x="306" y="404" fill="#eba">-</text>
+<text x="408" y="404" fill="#eca">-</text>
+<text x="204" y="404" fill="#fc9">#</text>
+<text x="324 390" y="404" fill="#fda">%%</text>
+<text x="312" y="404" fill="#fdb">-</text>
+<text x="504" y="404" fill="#feb">%</text>
+<text x="222" y="404" fill="#fec">\</text>
+<text x="210" y="404" fill="#ffb">@</text>
+<text x="318 492" y="404" fill="#ffc">@/</text>
+<text x="216 396 402" y="404" fill="#ffd">@@@</text>
+<text x="498" y="404" fill="#fff">@</text>
+<text x="342" y="415" fill="#111">.</text>
+<text x="348" y="415" fill="#112">.</text>
+<text x="156 162 336 354 366 372 378 540 546 552 558" y="415" fill="#222">...........</text>
+<text x="168" y="415" fill="#322">.</text>
+<text x="174" y="415" fill="#323">:</text>
+<text x="144 150 564" y="415" fill="#333">...</text>
+<text x="384" y="415" fill="#433">.</text>
+<text x="360" y="415" fill="#545">:</text>
+<text x="534" y="415" fill="#655">-</text>
+<text x="330" y="415" fill="#765">|</text>
+<text x="528" y="415" fill="#986">|</text>
+<text x="180" y="415" fill="#a98">*</text>
+<text x="324" y="415" fill="#b97">*</text>
+<text x="516" y="415" fill="#c97">*</text>
+<text x="186" y="415" fill="#ca7">|</text>
+<text x="522" y="415" fill="#ca8">*</text>
+<text x="510" y="415" fill="#da8">o</text>
+<text x="390" y="415" fill="#db9">|</text>
+<text x="198" y="415" fill="#fc9">#</text>
+<text x="318" y="415" fill="#fca">\</text>
+<text x="210 396" y="415" fill="#fd9">%%</text>
+<text x="192 504" y="415" fill="#fda">##</text>
+<text x="426" y="415" fill="#fdb">%</text>
+<text x="498" y="415" fill="#feb">%</text>
+<text x="204 252 264 414 450" y="415" fill="#fec">@@%@%</text>
+<text x="216 222 270 408 456" y="415" fill="#ffc">@@@@@</text>
+<text x="228 234 246 258 288 300 306 312 402 420 432 462 492" y="415" fill="#ffd">@@@@@@@@@@@@@</text>
+<text x="240 276 282 438 444 468 480 486" y="415" fill="#ffe">@@@@@@@@</text>
+<text x="294 474" y="415" fill="#fff">@@</text>
+<text x="162 168 348 540 546" y="426" fill="#222">.....</text>
+<text x="552" y="426" fill="#223">.</text>
+<text x="558" y="426" fill="#233">.</text>
+<text x="366 372" y="426" fill="#322">..</text>
+<text x="342" y="426" fill="#323">.</text>
+<text x="150 156" y="426" fill="#333">..</text>
+<text x="354" y="426" fill="#432">:</text>
+<text x="174 330" y="426" fill="#433">..</text>
+<text x="384" y="426" fill="#444">:</text>
+<text x="336 432 438 534" y="426" fill="#544">:/-:</text>
+<text x="378" y="426" fill="#555">:</text>
+<text x="282" y="426" fill="#644">-</text>
+<text x="270" y="426" fill="#754">-</text>
+<text x="276" y="426" fill="#755">-</text>
+<text x="444" y="426" fill="#765">-</text>
+<text x="252 264 450 528" y="426" fill="#865">/--|</text>
+<text x="426" y="426" fill="#875">/</text>
+<text x="360 390" y="426" fill="#876">=|</text>
+<text x="180 510 522" y="426" fill="#975">||=</text>
+<text x="258 288 516" y="426" fill="#976">/\=</text>
+<text x="246 462" y="426" fill="#a86">+\</text>
+<text x="324" y="426" fill="#a87">|</text>
+<text x="456" y="426" fill="#a97">\</text>
+<text x="240" y="426" fill="#b97">*</text>
+<text x="186 198 204" y="426" fill="#ca7">*\\</text>
+<text x="192 234 318 468" y="426" fill="#ca8">*oo|</text>
+<text x="420" y="426" fill="#cb9">/</text>
+<text x="228" y="426" fill="#db8">o</text>
+<text x="504" y="426" fill="#db9">o</text>
+<text x="498" y="426" fill="#ec9">#</text>
+<text x="414" y="426" fill="#eeb">%</text>
+<text x="474" y="426" fill="#fca">#</text>
+<text x="216 306 480" y="426" fill="#fda">%%%</text>
+<text x="222 294 396 486" y="426" fill="#fdb">%\%%</text>
+<text x="210" y="426" fill="#feb">%</text>
+<text x="492" y="426" fill="#fec">%</text>
+<text x="312 408" y="426" fill="#ffc">@@</text>
+<text x="300 402" y="426" fill="#ffd">@@</text>
+<text x="330 336 342 348 372 540" y="437" fill="#222">...:..</text>
+<text x="378 384 546" y="437" fill="#223">.:.</text>
+<text x="174" y="437" fill="#322">.</text>
+<text x="288 426" y="437" fill="#332">..</text>
+<text x="162 168" y="437" fill="#333">..</text>
+<text x="390 534" y="437" fill="#433">||</text>
+<text x="450" y="437" fill="#444">:</text>
+<text x="366 432" y="437" fill="#543">\:</text>
+<text x="444 456" y="437" fill="#544">::</text>
+<text x="258" y="437" fill="#643">:</text>
+<text x="186 264 276 282 438 522 528" y="437" fill="#654">::----:</text>
+<text x="270" y="437" fill="#655">-</text>
+<text x="294" y="437" fill="#754">-</text>
+<text x="354" y="437" fill="#755">/</text>
+<text x="252" y="437" fill="#764">/</text>
+<text x="462" y="437" fill="#765">\</text>
+<text x="180" y="437" fill="#766">|</text>
+<text x="420" y="437" fill="#865">|</text>
+<text x="192 246 510 516" y="437" fill="#976">=//+</text>
+<text x="324" y="437" fill="#977">|</text>
+<text x="468" y="437" fill="#a87">\</text>
+<text x="240 414" y="437" fill="#b97">/*</text>
+<text x="504" y="437" fill="#ca8">/</text>
+<text x="360" y="437" fill="#cb9">o</text>
+<text x="204 318" y="437" fill="#da8">\o</text>
+<text x="486" y="437" fill="#db8">o</text>
+<text x="198 234 300" y="437" fill="#db9">o#|</text>
+<text x="498" y="437" fill="#dca">#</text>
+<text x="474" y="437" fill="#eb8">\</text>
+<text x="312" y="437" fill="#ec9">#</text>
+<text x="228" y="437" fill="#eca">#</text>
+<text x="492" y="437" fill="#edb">%</text>
+<text x="210" y="437" fill="#fc9">\</text>
+<text x="408 480" y="437" fill="#fda">%%</text>
+<text x="222" y="437" fill="#feb">%</text>
+<text x="216 396" y="437" fill="#fec">@@</text>
+<text x="402" y="437" fill="#ffb">@</text>
+<text x="306" y="437" fill="#ffc">@</text>
+<text x="174 342 372 378" y="448" fill="#222">.:\:</text>
+<text x="336" y="448" fill="#223">.</text>
+<text x="330 534" y="448" fill="#322">||</text>
+<text x="348" y="448" fill="#333">/</text>
+<text x="384" y="448" fill="#334">:</text>
+<text x="366" y="448" fill="#432">\</text>
+<text x="198" y="448" fill="#643">:</text>
+<text x="390" y="448" fill="#644">|</text>
+<text x="354" y="448" fill="#653">/</text>
+<text x="516" y="448" fill="#654">:</text>
+<text x="294 420" y="448" fill="#754">--</text>
+<text x="522" y="448" fill="#755">-</text>
+<text x="180 192 528" y="448" fill="#765">|--</text>
+<text x="510" y="448" fill="#864">=</text>
+<text x="204 246 426" y="448" fill="#865">==-</text>
+<text x="438" y="448" fill="#975">=</text>
+<text x="270 504" y="448" fill="#976">=/</text>
+<text x="456 462" y="448" fill="#987">++</text>
+<text x="210 240 264 444 450" y="448" fill="#a86">\/+++</text>
+<text x="186 222 252 468" y="448" fill="#a87">+-++</text>
+<text x="324" y="448" fill="#a98">*</text>
+<text x="234 276 288 492" y="448" fill="#b97">/+*-</text>
+<text x="414 474 486" y="448" fill="#b98">|\-</text>
+<text x="216 228 498" y="448" fill="#ba8">---</text>
+<text x="258" y="448" fill="#c98">*</text>
+<text x="432" y="448" fill="#cb9">o</text>
+<text x="480" y="448" fill="#db9">-</text>
+<text x="282" y="448" fill="#eba">o</text>
+<text x="300 408" y="448" fill="#ec9">|#</text>
+<text x="360" y="448" fill="#edb">#</text>
+<text x="318 402" y="448" fill="#fda">#%</text>
+<text x="306 312" y="448" fill="#feb">%%</text>
+<text x="396" y="448" fill="#ffd">@</text>
+<text x="240 468" y="459" fill="#222">..</text>
+<text x="246 252 462 474" y="459" fill="#322">.-..</text>
+<text x="234" y="459" fill="#332">.</text>
+<text x="228 480 486" y="459" fill="#432">...</text>
+<text x="456" y="459" fill="#433">.</text>
+<text x="210 504" y="459" fill="#543">::</text>
+<text x="180 492" y="459" fill="#544">|:</text>
+<text x="222" y="459" fill="#554">:</text>
+<text x="204" y="459" fill="#643">/</text>
+<text x="216 258 450 498 510" y="459" fill="#654">-\/:-</text>
+<text x="528" y="459" fill="#765">|</text>
+<text x="336" y="459" fill="#766">\</text>
+<text x="342" y="459" fill="#866">=</text>
+<text x="378" y="459" fill="#875">-</text>
+<text x="432" y="459" fill="#975">=</text>
+<text x="366" y="459" fill="#976">=</text>
+<text x="372 444" y="459" fill="#987">=|</text>
+<text x="282 420" y="459" fill="#a86">++</text>
+<text x="264 384 516" y="459" fill="#a87">\/+</text>
+<text x="348" y="459" fill="#a88">+</text>
+<text x="330" y="459" fill="#a98">\</text>
+<text x="354 522" y="459" fill="#b97">**</text>
+<text x="438" y="459" fill="#b98">*</text>
+<text x="414" y="459" fill="#c97">|</text>
+<text x="294" y="459" fill="#da8">*</text>
+<text x="270 276 426" y="459" fill="#db9">|oo</text>
+<text x="186" y="459" fill="#eb8">o</text>
+<text x="288 300" y="459" fill="#eb9">o|</text>
+<text x="198" y="459" fill="#ec8">#</text>
+<text x="324 360" y="459" fill="#edb">##</text>
+<text x="408" y="459" fill="#fda">%</text>
+<text x="390" y="459" fill="#fdb">/</text>
+<text x="318 402" y="459" fill="#feb">%@</text>
+<text x="192" y="459" fill="#ffa">@</text>
+<text x="312" y="459" fill="#ffb">@</text>
+<text x="306 396" y="459" fill="#ffd">@@</text>
+<text x="246 462" y="470" fill="#122">..</text>
+<text x="252" y="470" fill="#212">.</text>
+<text x="240 450 456 468" y="470" fill="#222">....</text>
+<text x="486" y="470" fill="#322">.</text>
+<text x="210" y="470" fill="#332">.</text>
+<text x="258 474" y="470" fill="#333">..</text>
+<text x="528" y="470" fill="#422">.</text>
+<text x="264 444" y="470" fill="#432">\.</text>
+<text x="222 228 480 498" y="470" fill="#433">....</text>
+<text x="492" y="470" fill="#444">:</text>
+<text x="504" y="470" fill="#544">\</text>
+<text x="234" y="470" fill="#554">:</text>
+<text x="270" y="470" fill="#653">\</text>
+<text x="204" y="470" fill="#654">/</text>
+<text x="216" y="470" fill="#655">-</text>
+<text x="438" y="470" fill="#875">|</text>
+<text x="198" y="470" fill="#974">/</text>
+<text x="354" y="470" fill="#976">-</text>
+<text x="186 510 522" y="470" fill="#986">\\/</text>
+<text x="516" y="470" fill="#a97">+</text>
+<text x="192 366" y="470" fill="#b97">*-</text>
+<text x="432" y="470" fill="#b98">*</text>
+<text x="360" y="470" fill="#ba8">-</text>
+<text x="426" y="470" fill="#c97">*</text>
+<text x="288 414" y="470" fill="#ca7">*|</text>
+<text x="276" y="470" fill="#ca8">*</text>
+<text x="348" y="470" fill="#db9">-</text>
+<text x="294" y="470" fill="#eb8">o</text>
+<text x="282 420" y="470" fill="#ec9">##</text>
+<text x="306 408" y="470" fill="#fda">%#</text>
+<text x="336 342" y="470" fill="#fdb">\-</text>
+<text x="300 372 378" y="470" fill="#feb">|-@</text>
+<text x="396" y="470" fill="#ffb">@</text>
+<text x="318 330" y="470" fill="#ffc">@@</text>
+<text x="312 384" y="470" fill="#ffd">@@</text>
+<text x="324 402" y="470" fill="#ffe">@@</text>
+<text x="390" y="470" fill="#fff">@</text>
+<text x="246 252 258 444 450 456 462" y="481" fill="#222">.......</text>
+<text x="264" y="481" fill="#223">.</text>
+<text x="468 498" y="481" fill="#322">:.</text>
+<text x="516" y="481" fill="#332">.</text>
+<text x="192 210 270" y="481" fill="#433">...</text>
+<text x="198 438 504" y="481" fill="#443">-|:</text>
+<text x="204" y="481" fill="#544">:</text>
+<text x="240 510" y="481" fill="#554">\-</text>
+<text x="228" y="481" fill="#643">:</text>
+<text x="480" y="481" fill="#654">:</text>
+<text x="216" y="481" fill="#655">-</text>
+<text x="486" y="481" fill="#754">-</text>
+<text x="276 492" y="481" fill="#765">|-</text>
+<text x="474" y="481" fill="#766">/</text>
+<text x="234" y="481" fill="#876">=</text>
+<text x="222" y="481" fill="#976">=</text>
+<text x="432" y="481" fill="#a87">+</text>
+<text x="426" y="481" fill="#b86">+</text>
+<text x="414" y="481" fill="#b96">|</text>
+<text x="282" y="481" fill="#da8">o</text>
+<text x="288" y="481" fill="#eb8">o</text>
+<text x="420" y="481" fill="#fca">#</text>
+<text x="294 300" y="481" fill="#fda">%|</text>
+<text x="396" y="481" fill="#fea">%</text>
+<text x="306 342 360" y="481" fill="#feb">%@%</text>
+<text x="408" y="481" fill="#fec">%</text>
+<text x="324 354" y="481" fill="#ffc">@@</text>
+<text x="318" y="481" fill="#ffd">@</text>
+<text x="348 372 402" y="481" fill="#ffe">@@@</text>
+<text x="312 330 336 366 378 384 390" y="481" fill="#fff">@@@@@@@</text>
+<text x="258 456" y="492" fill="#122">..</text>
+<text x="252 264 450" y="492" fill="#222">.:.</text>
+<text x="246 444 462" y="492" fill="#322">|.:</text>
+<text x="216" y="492" fill="#432">|</text>
+<text x="468" y="492" fill="#543">/</text>
+<text x="438 492" y="492" fill="#654">||</text>
+<text x="270" y="492" fill="#655">-</text>
+<text x="480" y="492" fill="#864">-</text>
+<text x="228" y="492" fill="#975">/</text>
+<text x="240" y="492" fill="#976">\</text>
+<text x="486" y="492" fill="#986">\</text>
+<text x="234 432" y="492" fill="#a86">-+</text>
+<text x="276" y="492" fill="#a87">|</text>
+<text x="222" y="492" fill="#b97">*</text>
+<text x="474" y="492" fill="#b98">/</text>
+<text x="414 426" y="492" fill="#ca7">|*</text>
+<text x="288" y="492" fill="#db8">o</text>
+<text x="282 420" y="492" fill="#eb9">o#</text>
+<text x="300" y="492" fill="#ec9">|</text>
+<text x="408" y="492" fill="#eee">@</text>
+<text x="318 396" y="492" fill="#fda">%#</text>
+<text x="378" y="492" fill="#feb">@</text>
+<text x="402" y="492" fill="#ffc">@</text>
+<text x="294 336 342 360" y="492" fill="#ffd">@@@@</text>
+<text x="306 324 330 372 384 390" y="492" fill="#ffe">@@@@@@</text>
+<text x="312 348 354 366" y="492" fill="#fff">@@@@</text>
+<text x="450" y="503" fill="#123">.</text>
+<text x="258 456" y="503" fill="#222">.:</text>
+<text x="216 444" y="503" fill="#322">|.</text>
+<text x="264" y="503" fill="#323">:</text>
+<text x="252" y="503" fill="#333">.</text>
+<text x="462 492" y="503" fill="#433">:|</text>
+<text x="246" y="503" fill="#533">|</text>
+<text x="438" y="503" fill="#654">|</text>
+<text x="270" y="503" fill="#765">|</text>
+<text x="432 468" y="503" fill="#865">=/</text>
+<text x="276" y="503" fill="#975">=</text>
+<text x="486" y="503" fill="#976">=</text>
+<text x="414 420" y="503" fill="#986">|+</text>
+<text x="222 480" y="503" fill="#a86">++</text>
+<text x="288" y="503" fill="#a87">+</text>
+<text x="300" y="503" fill="#b86">|</text>
+<text x="426" y="503" fill="#b98">*</text>
+<text x="234" y="503" fill="#c97">*</text>
+<text x="228 282" y="503" fill="#ca8">**</text>
+<text x="396" y="503" fill="#db8">o</text>
+<text x="240 318" y="503" fill="#db9">\o</text>
+<text x="402" y="503" fill="#dca">#</text>
+<text x="378" y="503" fill="#ec9">#</text>
+<text x="294" y="503" fill="#ecb">#</text>
+<text x="408" y="503" fill="#edb">#</text>
+<text x="474" y="503" fill="#fca">#</text>
+<text x="342" y="503" fill="#fda">#</text>
+<text x="306 324 336 372" y="503" fill="#fdb">%%%%</text>
+<text x="312 330 384 390" y="503" fill="#fec">%@%@</text>
+<text x="348" y="503" fill="#ffc">@</text>
+<text x="354 360 366" y="503" fill="#ffd">@@@</text>
+<text x="450" y="514" fill="#223">.</text>
+<text x="492" y="514" fill="#321">.</text>
+<text x="264" y="514" fill="#322">:</text>
+<text x="258 444" y="514" fill="#333">..</text>
+<text x="252" y="514" fill="#433">.</text>
+<text x="462" y="514" fill="#543">/</text>
+<text x="456" y="514" fill="#544">:</text>
+<text x="246" y="514" fill="#765">\</text>
+<text x="318" y="514" fill="#864">-</text>
+<text x="402" y="514" fill="#865">=</text>
+<text x="438 486" y="514" fill="#876">|=</text>
+<text x="300 384" y="514" fill="#975">|=</text>
+<text x="336 420" y="514" fill="#976">=|</text>
+<text x="360" y="514" fill="#986">+</text>
+<text x="270" y="514" fill="#987">|</text>
+<text x="222 288" y="514" fill="#a87">|+</text>
+<text x="480" y="514" fill="#b87">+</text>
+<text x="378" y="514" fill="#b97">*</text>
+<text x="432" y="514" fill="#b98">*</text>
+<text x="354" y="514" fill="#ba8">*</text>
+<text x="330 414 426" y="514" fill="#ca8">***</text>
+<text x="234" y="514" fill="#da7">*</text>
+<text x="228 474" y="514" fill="#db8">oo</text>
+<text x="276 282 396" y="514" fill="#db9">ooo</text>
+<text x="312" y="514" fill="#edb">#</text>
+<text x="240" y="514" fill="#fca">#</text>
+<text x="294 468" y="514" fill="#fec">%/</text>
+<text x="390" y="514" fill="#fed">%</text>
+<text x="408" y="514" fill="#ffd">@</text>
+<text x="306 324 342 366" y="514" fill="#ffe">@@|@</text>
+<text x="348 372" y="514" fill="#fff">@@</text>
+<text x="492" y="525" fill="#321">.</text>
+<text x="444" y="525" fill="#322">.</text>
+<text x="264" y="525" fill="#333">:</text>
+<text x="252" y="525" fill="#543">\</text>
+<text x="450" y="525" fill="#544">:</text>
+<text x="438" y="525" fill="#654">|</text>
+<text x="258" y="525" fill="#655">-</text>
+<text x="270 456" y="525" fill="#765">|/</text>
+<text x="462" y="525" fill="#975">/</text>
+<text x="486" y="525" fill="#976">=</text>
+<text x="432" y="525" fill="#987">+</text>
+<text x="480" y="525" fill="#a86">+</text>
+<text x="222" y="525" fill="#a87">|</text>
+<text x="276" y="525" fill="#b97">+</text>
+<text x="360 426" y="525" fill="#ba8">**</text>
+<text x="474" y="525" fill="#c97">*</text>
+<text x="234" y="525" fill="#ca7">*</text>
+<text x="282 384 414" y="525" fill="#ca8">*oo</text>
+<text x="402" y="525" fill="#cb9">o</text>
+<text x="246 288 300" y="525" fill="#db9">oo|</text>
+<text x="420" y="525" fill="#dba">|</text>
+<text x="228" y="525" fill="#eb9">o</text>
+<text x="240 318" y="525" fill="#eca">##</text>
+<text x="336" y="525" fill="#fec">%</text>
+<text x="294 330 354 378 396 408" y="525" fill="#ffd">@@@|@@</text>
+<text x="306 312 468" y="525" fill="#ffe">@@@</text>
+<text x="324 342 348 366 372 390" y="525" fill="#fff">@|@@@@</text>
+<text x="216 492" y="536" fill="#322">..</text>
+<text x="264" y="536" fill="#543">:</text>
+<text x="444" y="536" fill="#654">:</text>
+<text x="288" y="536" fill="#754">-</text>
+<text x="420" y="536" fill="#755">|</text>
+<text x="300" y="536" fill="#764">\</text>
+<text x="258 270 438" y="536" fill="#765">\-|</text>
+<text x="414 426 456" y="536" fill="#865">/=/</text>
+<text x="450" y="536" fill="#866">/</text>
+<text x="402 432 486" y="536" fill="#976">+==</text>
+<text x="282" y="536" fill="#986">+</text>
+<text x="276 294" y="536" fill="#987">++</text>
+<text x="252" y="536" fill="#a86">\</text>
+<text x="222" y="536" fill="#a87">+</text>
+<text x="474" y="536" fill="#b86">+</text>
+<text x="480" y="536" fill="#b97">*</text>
+<text x="240" y="536" fill="#c97">*</text>
+<text x="318" y="536" fill="#ca8">*</text>
+<text x="408" y="536" fill="#ca9">o</text>
+<text x="384" y="536" fill="#cb9">o</text>
+<text x="234" y="536" fill="#da8">o</text>
+<text x="228 306" y="536" fill="#db9">oo</text>
+<text x="312 396" y="536" fill="#dba">oo</text>
+<text x="360" y="536" fill="#dca">#</text>
+<text x="378" y="536" fill="#eed">/</text>
+<text x="468" y="536" fill="#feb">%</text>
+<text x="324 330 336 390" y="536" fill="#fec">@%%%</text>
+<text x="462" y="536" fill="#ffc">@</text>
+<text x="348 354 372" y="536" fill="#ffd">@@@</text>
+<text x="342" y="536" fill="#ffe">\</text>
+<text x="246 366" y="536" fill="#fff">@@</text>
+<text x="216" y="547" fill="#533">|</text>
+<text x="492" y="547" fill="#654">|</text>
+<text x="270 342" y="547" fill="#875">=-</text>
+<text x="264 288 444" y="547" fill="#975">\=/</text>
+<text x="390 486" y="547" fill="#976">==</text>
+<text x="360" y="547" fill="#986">+</text>
+<text x="312 438" y="547" fill="#a86">++</text>
+<text x="276 420 432" y="547" fill="#a87">+++</text>
+<text x="282 372 426" y="547" fill="#a97">+++</text>
+<text x="480" y="547" fill="#b86">+</text>
+<text x="468" y="547" fill="#b96">+</text>
+<text x="300" y="547" fill="#b97">*</text>
+<text x="378 408" y="547" fill="#b98">/*</text>
+<text x="240 474" y="547" fill="#c97">|*</text>
+<text x="228" y="547" fill="#ca7">*</text>
+<text x="258 450" y="547" fill="#ca8">\/</text>
+<text x="324" y="547" fill="#ca9">o</text>
+<text x="330 348 402" y="547" fill="#cb9">o-o</text>
+<text x="354" y="547" fill="#cba">o</text>
+<text x="222" y="547" fill="#db9">o</text>
+<text x="414" y="547" fill="#dba">o</text>
+<text x="234" y="547" fill="#eb9">o</text>
+<text x="366" y="547" fill="#eca">#</text>
+<text x="336 384" y="547" fill="#ecb">##</text>
+<text x="294 306 396" y="547" fill="#edb">###</text>
+<text x="318" y="547" fill="#fec">%</text>
+<text x="246 456" y="547" fill="#ffc">@@</text>
+<text x="252 462" y="547" fill="#ffe">@@</text>
+<text x="216" y="558" fill="#654">|</text>
+<text x="342" y="558" fill="#875">=</text>
+<text x="390 492" y="558" fill="#876">=|</text>
+<text x="360 372 486" y="558" fill="#976">=++</text>
+<text x="468" y="558" fill="#a86">|</text>
+<text x="330 414" y="558" fill="#a87">++</text>
+<text x="402" y="558" fill="#a96">+</text>
+<text x="288" y="558" fill="#b96">+</text>
+<text x="276 300 312 432 474 480" y="558" fill="#b97">\++***</text>
+<text x="420" y="558" fill="#ca7">*</text>
+<text x="282 378 426" y="558" fill="#ca8">o**</text>
+<text x="324 408" y="558" fill="#ca9">oo</text>
+<text x="348" y="558" fill="#cb8">o</text>
+<text x="270" y="558" fill="#da8">\</text>
+<text x="228 234" y="558" fill="#db8">oo</text>
+<text x="222 294 306" y="558" fill="#db9">ooo</text>
+<text x="354" y="558" fill="#dca">#</text>
+<text x="246 438" y="558" fill="#eb8">o/</text>
+<text x="240" y="558" fill="#eb9">|</text>
+<text x="264 318 396 462" y="558" fill="#eca">\###</text>
+<text x="336" y="558" fill="#ecb">#</text>
+<text x="384" y="558" fill="#edb">#</text>
+<text x="258 366 444" y="558" fill="#feb">%%/</text>
+<text x="252" y="558" fill="#ffc">@</text>
+<text x="450 456" y="558" fill="#ffd">@@</text>
+<text x="216 492" y="569" fill="#322">..</text>
+<text x="486" y="569" fill="#654">/</text>
+<text x="222" y="569" fill="#765">\</text>
+<text x="480" y="569" fill="#865">/</text>
+<text x="468" y="569" fill="#975">+</text>
+<text x="414" y="569" fill="#a75">=</text>
+<text x="462" y="569" fill="#a86">|</text>
+<text x="228 474" y="569" fill="#a87">\+</text>
+<text x="288 300 312 402" y="569" fill="#b97">**+*</text>
+<text x="390" y="569" fill="#b98">*</text>
+<text x="246" y="569" fill="#c97">*</text>
+<text x="426" y="569" fill="#ca7">/</text>
+<text x="294 420" y="569" fill="#ca8">**</text>
+<text x="330" y="569" fill="#ca9">*</text>
+<text x="342" y="569" fill="#cb9">o</text>
+<text x="240 282" y="569" fill="#da8">o\</text>
+<text x="372" y="569" fill="#da9">o</text>
+<text x="234 318 360 384 408" y="569" fill="#db9">ooooo</text>
+<text x="336 348" y="569" fill="#dba">#o</text>
+<text x="276" y="569" fill="#ec9">\</text>
+<text x="306 354 366" y="569" fill="#eca">###</text>
+<text x="456" y="569" fill="#edb">%</text>
+<text x="432" y="569" fill="#fca">/</text>
+<text x="378" y="569" fill="#fcb">#</text>
+<text x="264 270" y="569" fill="#fda">%%</text>
+<text x="324 396" y="569" fill="#fdb">%#</text>
+<text x="252" y="569" fill="#fea">%</text>
+<text x="438" y="569" fill="#feb">/</text>
+<text x="444" y="569" fill="#ffb">@</text>
+<text x="258 450" y="569" fill="#ffc">@@</text>
+<text x="234" y="580" fill="#532">\</text>
+<text x="474" y="580" fill="#544">/</text>
+<text x="468" y="580" fill="#876">/</text>
+<text x="462" y="580" fill="#976">/</text>
+<text x="240" y="580" fill="#a87">\</text>
+<text x="246 384 402" y="580" fill="#b96">\*+</text>
+<text x="348 372" y="580" fill="#b97">**</text>
+<text x="318" y="580" fill="#c96">*</text>
+<text x="306 330 342 414 456" y="580" fill="#c97">*****</text>
+<text x="360 366" y="580" fill="#ca8">**</text>
+<text x="294" y="580" fill="#da7">*</text>
+<text x="354" y="580" fill="#da8">o</text>
+<text x="336 396 408" y="580" fill="#db9">ooo</text>
+<text x="300 390" y="580" fill="#eb9">o#</text>
+<text x="252 270 420" y="580" fill="#ec9">##/</text>
+<text x="312 450" y="580" fill="#eca">##</text>
+<text x="264" y="580" fill="#fc9">#</text>
+<text x="288 324" y="580" fill="#fca">##</text>
+<text x="258 282 444" y="580" fill="#fda">%%%</text>
+<text x="378" y="580" fill="#fdb">#</text>
+<text x="276 426 438" y="580" fill="#feb">%/@</text>
+<text x="432" y="580" fill="#ffc">@</text>
+<text x="468" y="591" fill="#332">.</text>
+<text x="462" y="591" fill="#643">/</text>
+<text x="246" y="591" fill="#653">\</text>
+<text x="456" y="591" fill="#a87">/</text>
+<text x="252 450" y="591" fill="#b97">\*</text>
+<text x="396 438 444" y="591" fill="#db8">ooo</text>
+<text x="276 318 384 420" y="591" fill="#eb8">oooo</text>
+<text x="408" y="591" fill="#eb9">o</text>
+<text x="270 312" y="591" fill="#ec9">##</text>
+<text x="258" y="591" fill="#fc9">#</text>
+<text x="264 294 306 402" y="591" fill="#fca">####</text>
+<text x="348" y="591" fill="#fd9">-</text>
+<text x="300 324 336 366 432" y="591" fill="#fda">%%%##</text>
+<text x="372" y="591" fill="#fdb">%</text>
+<text x="282 330 342 378 390 414" y="591" fill="#feb">%%-%%%</text>
+<text x="354 360" y="591" fill="#ffc">--</text>
+<text x="288 426" y="591" fill="#ffd">@@</text>
+<text x="252 456" y="602" fill="#322">..</text>
+<text x="450" y="602" fill="#764">/</text>
+<text x="258" y="602" fill="#765">\</text>
+<text x="444" y="602" fill="#a86">/</text>
+<text x="432" y="602" fill="#c97">*</text>
+<text x="264" y="602" fill="#c98">\</text>
+<text x="438" y="602" fill="#ca7">*</text>
+<text x="282 426" y="602" fill="#db8">oo</text>
+<text x="270 276" y="602" fill="#ec9">##</text>
+<text x="288 396" y="602" fill="#fda">#%</text>
+<text x="420" y="602" fill="#fdb">%</text>
+<text x="318" y="602" fill="#feb">-</text>
+<text x="402" y="602" fill="#fec">@</text>
+<text x="294 300 306 312 324 336 366 378 390 408 414" y="602" fill="#ffc">@@@@---@@@@</text>
+<text x="330 348 372 384" y="602" fill="#ffd">-@-@</text>
+<text x="342 354 360" y="602" fill="#fff">@@@</text>
+<text x="444" y="613" fill="#433">/</text>
+<text x="264" y="613" fill="#543">\</text>
+<text x="270 438" y="613" fill="#764">\/</text>
+<text x="432" y="613" fill="#a86">/</text>
+<text x="276 426" y="613" fill="#b97">\*</text>
+<text x="420" y="613" fill="#ca8">o</text>
+<text x="414" y="613" fill="#da8">o</text>
+<text x="282" y="613" fill="#eb9">o</text>
+<text x="294" y="613" fill="#ec9">#</text>
+<text x="288" y="613" fill="#fc9">#</text>
+<text x="408" y="613" fill="#fca">#</text>
+<text x="300" y="613" fill="#fda">%</text>
+<text x="372 378 384 402" y="613" fill="#ffc">@@@@</text>
+<text x="306 336 342 390 396" y="613" fill="#ffd">@@@@@</text>
+<text x="312 318 324 330 366" y="613" fill="#ffe">@@@@@</text>
+<text x="348 354 360" y="613" fill="#fff">@@@</text>
+<text x="432" y="624" fill="#432">/</text>
+<text x="276" y="624" fill="#443">\</text>
+<text x="282" y="624" fill="#654">\</text>
+<text x="426" y="624" fill="#754">/</text>
+<text x="420" y="624" fill="#975">/</text>
+<text x="288" y="624" fill="#986">\</text>
+<text x="414" y="624" fill="#a87">+</text>
+<text x="294 402 408" y="624" fill="#ca8">\oo</text>
+<text x="396" y="624" fill="#dca">#</text>
+<text x="306" y="624" fill="#eb8">o</text>
+<text x="300" y="624" fill="#eda">#</text>
+<text x="390" y="624" fill="#eeb">%</text>
+<text x="366" y="624" fill="#eed">@</text>
+<text x="348 354 360" y="624" fill="#eee">@@@</text>
+<text x="312" y="624" fill="#feb">%</text>
+<text x="384" y="624" fill="#fec">%</text>
+<text x="318" y="624" fill="#ffc">@</text>
+<text x="324 330 378" y="624" fill="#ffd">@@@</text>
+<text x="336 342 372" y="624" fill="#ffe">@@@</text>
+<text x="288" y="635" fill="#333">.</text>
+<text x="414 420" y="635" fill="#433">//</text>
+<text x="294" y="635" fill="#544">\</text>
+<text x="408" y="635" fill="#865">/</text>
+<text x="300" y="635" fill="#875">\</text>
+<text x="402" y="635" fill="#976">/</text>
+<text x="306 396" y="635" fill="#b97">\/</text>
+<text x="312" y="635" fill="#ca8">\</text>
+<text x="354" y="635" fill="#ca9">o</text>
+<text x="336 342 348 360 366 384 390" y="635" fill="#cb9">oooo##o</text>
+<text x="378" y="635" fill="#cc9">#</text>
+<text x="330 372" y="635" fill="#cca">##</text>
+<text x="318 324" y="635" fill="#dca">##</text>
+<text x="306 402" y="646" fill="#332">..</text>
+<text x="354 360" y="646" fill="#533">--</text>
+<text x="348 366 396" y="646" fill="#543">--/</text>
+<text x="312 342" y="646" fill="#544">\-</text>
+<text x="318 324 372 378 390" y="646" fill="#654">-----</text>
+<text x="336" y="646" fill="#764">-</text>
+<text x="330 384" y="646" fill="#765">--</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0373" calcMode="discrete" dur="4.64s" begin="5.68s" repeatCount="indefinite"/><path d="M270,473h6v11h-6zM480,297h6v11h-6zM324,286h6v11h-6zM498,143h6v11h-6zM234,385h6v11h-6zM384,187h6v11h-6z" fill="#06080b"/><text x="270 480 324 498 234 384" y="481 305 294 151 393 195" fill="#00d9ff">%}&lt;?&amp;*</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0125" calcMode="discrete" dur="8.89s" begin="3.71s" repeatCount="indefinite"/><path d="M390,550h6v11h-6zM300,88h6v11h-6zM360,286h6v11h-6zM396,330h6v11h-6zM246,462h6v11h-6zM378,638h6v11h-6z" fill="#06080b"/><text x="390 300 360 396 246 378" y="558 96 294 338 470 646" fill="#00d9ff">}=\**]</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0323" calcMode="discrete" dur="4.95s" begin="5.49s" repeatCount="indefinite"/><path d="M396,517h6v11h-6zM354,132h6v11h-6zM456,220h6v11h-6zM306,231h6v11h-6zM288,231h6v11h-6zM366,77h6v11h-6z" fill="#06080b"/><text x="396 354 456 306 288 366" y="525 140 228 239 239 85" fill="#00d9ff">|+{/=*</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0221" calcMode="discrete" dur="4.42s" begin="2.82s" repeatCount="indefinite"/><path d="M270,198h6v11h-6zM342,495h6v11h-6zM336,462h6v11h-6zM336,220h6v11h-6zM504,330h6v11h-6zM468,385h6v11h-6z" fill="#06080b"/><text x="270 342 336 336 504 468" y="206 503 470 228 338 393" fill="#00d9ff">*|1]1&lt;</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0244" calcMode="discrete" dur="7.85s" begin="5.29s" repeatCount="indefinite"/><path d="M282,396h6v11h-6zM252,187h6v11h-6zM456,462h6v11h-6zM300,132h6v11h-6zM450,385h6v11h-6zM246,462h6v11h-6z" fill="#06080b"/><text x="282 252 456 300 450 246" y="404 195 470 140 393 470" fill="#00d9ff">/$/[|?</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0270" calcMode="discrete" dur="6.02s" begin="8.80s" repeatCount="indefinite"/><path d="M222,286h6v11h-6zM348,627h6v11h-6zM306,319h6v11h-6zM204,209h6v11h-6zM384,605h6v11h-6zM366,286h6v11h-6z" fill="#06080b"/><text x="222 348 306 204 384 366" y="294 635 327 217 613 294" fill="#00d9ff">0**||=</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0214" calcMode="discrete" dur="7.56s" begin="4.22s" repeatCount="indefinite"/><path d="M438,352h6v11h-6zM408,605h6v11h-6zM462,572h6v11h-6zM180,220h6v11h-6zM420,440h6v11h-6zM366,594h6v11h-6z" fill="#06080b"/><text x="438 408 462 180 420 366" y="360 613 580 228 448 602" fill="#00d9ff">&gt;]/&gt;|=</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0125" calcMode="discrete" dur="8.21s" begin="7.82s" repeatCount="indefinite"/><path d="M144,330h6v11h-6zM498,132h6v11h-6zM252,583h6v11h-6zM156,407h6v11h-6zM318,88h6v11h-6zM138,264h6v11h-6z" fill="#06080b"/><text x="144 498 252 156 318 138" y="338 140 591 415 96 272" fill="#00d9ff">$&amp;*}][</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0283" calcMode="discrete" dur="6.74s" begin="2.11s" repeatCount="indefinite"/><path d="M330,187h6v11h-6zM234,121h6v11h-6zM564,198h6v11h-6zM378,286h6v11h-6zM366,506h6v11h-6zM330,429h6v11h-6z" fill="#06080b"/><text x="330 234 564 378 366 330" y="195 129 206 294 514 437" fill="#00d9ff">%|&lt;&lt;+1</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0488" calcMode="discrete" dur="3.46s" begin="8.96s" repeatCount="indefinite"/><path d="M366,341h6v11h-6zM282,440h6v11h-6zM234,495h6v11h-6zM438,231h6v11h-6zM528,242h6v11h-6zM258,77h6v11h-6z" fill="#06080b"/><text x="366 282 234 438 528 258" y="349 448 503 239 250 85" fill="#00d9ff">%?}+1}</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0143" calcMode="discrete" dur="9.13s" begin="2.02s" repeatCount="indefinite"/><path d="M270,209h6v11h-6zM192,231h6v11h-6zM384,165h6v11h-6zM228,77h6v11h-6zM222,473h6v11h-6zM336,495h6v11h-6z" fill="#06080b"/><text x="270 192 384 228 222 336" y="217 239 173 85 481 503" fill="#00d9ff">?}/*%#</text></g><g opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.0501" calcMode="discrete" dur="3.52s" begin="5.59s" repeatCount="indefinite"/><path d="M348,99h6v11h-6zM180,385h6v11h-6zM498,132h6v11h-6zM450,374h6v11h-6zM402,429h6v11h-6zM300,561h6v11h-6z" fill="#06080b"/><text x="348 180 498 450 402 300" y="107 393 140 382 437 569" fill="#00d9ff">1$/**\</text></g>
+<g mask="url(#glintMask)"><text x="186 192 210 216 222 228 234 240 246 252 258 264 270 276 282 288 426 432 438 444 450 456 462 468 474 480 486 492 498 504 522 528 210 222 228 234 240 246 252 258 264 270 276 282 288 294 330 336 342 348 354 360 366 372 378 384 390 426 432 438 444 450 456 462 468 474 480 486 492 528 186 192 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 516 522 528 186 192 198 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 186 192 198 204 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 348 354 360 366 372 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 510 516 522 528 186 192 198 204 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 342 348 354 360 366 372 378 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 510 516 522 528" y="316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393" fill="#f4f8ff">///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</text></g>
+<use href="#rings" xlink:href="#rings" stroke="#06080b"/>
+<circle r="0" fill="#06080b"><animateMotion path="M465,446 C455,424 378,363 369,336 C360,308 403,286 411,280 C419,275 428,246 417,302 C406,359 343,594 345,622 C347,649 409,497 429,468 C449,438 475,468 465,446Z" dur="31.0s" repeatCount="indefinite"/><animate attributeName="r" values="0;0;115.1;115.1;0;0;115.1;115.1;0;0" keyTimes="0;0.2061;0.2223;0.3287;0.3449;0.7468;0.763;0.8694;0.8855;1" dur="31.0s" repeatCount="indefinite"/></circle>
+<g clip-path="url(#lensClip)"><g><animateMotion path="M465,446 C455,424 378,363 369,336 C360,308 403,286 411,280 C419,275 428,246 417,302 C406,359 343,594 345,622 C347,649 409,497 429,468 C449,438 475,468 465,446Z" dur="31.0s" repeatCount="indefinite"/><g transform="scale(1.3)"><g><animateMotion path="M-465,-446 C-455,-424 -378,-363 -369,-336 C-360,-308 -403,-286 -411,-280 C-419,-275 -428,-246 -417,-302 C-406,-359 -343,-594 -345,-622 C-347,-649 -409,-497 -429,-468 C-449,-438 -475,-468 -465,-446Z" dur="31.0s" repeatCount="indefinite"/>
+<text x="348" y="107" fill="#2df">-</text>
+<text x="324 330 336 342 348 354 360 366 372 378 384 390" y="118" fill="#2df">////--\\----</text>
+<text x="372" y="129" fill="#067">=</text>
+<text x="390" y="129" fill="#068">=</text>
+<text x="348 378 384" y="129" fill="#078">+==</text>
+<text x="324 330 336 342 354 360 366 396 402" y="129" fill="#2df">|||||||\\</text>
+<text x="318 324 330 336 342 348 354 360 366 372 378 384 390 396 402" y="140" fill="#2df">|\\\\--//---\/|</text>
+<text x="336 402 408" y="151" fill="#2df">\/|</text>
+<text x="408" y="162" fill="#2df">/</text>
+<text x="330" y="184" fill="#033">.</text>
+<text x="444" y="195" fill="#033">.</text>
+<text x="438" y="195" fill="#034">.</text>
+<text x="276" y="206" fill="#033">.</text>
+<text x="312 318" y="206" fill="#034">..</text>
+<text x="330" y="217" fill="#033">.</text>
+<text x="324 450" y="217" fill="#034">..</text>
+<text x="336 378 384" y="228" fill="#033">...</text>
+<text x="330" y="228" fill="#034">.</text>
+<text x="456" y="239" fill="#033">.</text>
+<text x="288" y="250" fill="#033">.</text>
+<text x="282 504" y="250" fill="#034">..</text>
+<text x="408" y="272" fill="#2df">-</text>
+<text x="288 294 300 336 342 396 402 408 414 420 426 432 444" y="283" fill="#2df">----\//---\\-</text>
+<text x="240 252" y="294" fill="#034">..</text>
+<text x="264 450" y="294" fill="#045">::</text>
+<text x="456" y="294" fill="#055">:</text>
+<text x="258 270 276 282 288 294 300 306 312 318 324 330 336 342 360 372 378 384 390 396 402 408 414 420 426 432 438 444 462" y="294" fill="#2df">////-------------////--\\\\\\</text>
+<text x="474" y="305" fill="#044">.</text>
+<text x="228 234 246 252 468 480 486" y="305" fill="#045">:::::::</text>
+<text x="240 462" y="305" fill="#055">::</text>
+<text x="258 264 270 294 456" y="305" fill="#056">----:</text>
+<text x="288" y="305" fill="#067">-</text>
+<text x="408 414" y="305" fill="#078">++</text>
+<text x="402" y="305" fill="#089">+</text>
+<text x="222 276 282 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 420 426 432 438 444 450 492 498" y="305" fill="#2df">-\|-/----\\----/////||||//--</text>
+<text x="222" y="316" fill="#045">:</text>
+<text x="318 342 348 360 366 372" y="316" fill="#067">==-==-</text>
+<text x="312 354" y="316" fill="#078">==</text>
+<text x="186 192 198 204 210 216 228 282 288 294 300 306 324 330 336 378 384 390 396 402 408 414 420 426 432 438 486 492 498 504 510 516 522 528" y="316" fill="#2df">//-\\-|\\\||///\\\\\-/////|///--\\</text>
+<text x="360" y="327" fill="#045">:</text>
+<text x="510" y="327" fill="#067">-</text>
+<text x="198" y="327" fill="#078">=</text>
+<text x="180 186 192 204 210 216 222 228 282 288 294 300 306 312 318 324 330 342 348 354 366 372 390 396 402 408 414 420 426 432 486 492 498 504 516 522 528 534" y="327" fill="#2df">|||\\|||\\\\\-///\\\//\\--////||||||||</text>
+<text x="204" y="338" fill="#068">=</text>
+<text x="360" y="338" fill="#089">+</text>
+<text x="186 192 198 210 216 222 228 300 306 312 318 324 342 348 354 366 372 378 390 396 402 408 414 486 492 498 504 510 516 522 528 534" y="338" fill="#2df">\\\||||\--//\||||/\\--/|\\\-///|</text>
+<text x="360" y="349" fill="#044">.</text>
+<text x="198 204 210 216 222 336 354 366 378 492 504 510 516" y="349" fill="#2df">\\/|||/||\\-/</text>
+<text x="510" y="360" fill="#034">.</text>
+<text x="360" y="360" fill="#079">+</text>
+<text x="204 210 216 342 348 354 366 372 504" y="360" fill="#2df">\/||||||\</text>
+<text x="198 204 210 216 222 342 348 354 360 366 372 378 498 504 510 516" y="371" fill="#2df">||||||\---/||/\|</text>
+<text x="336" y="382" fill="#045">:</text>
+<text x="378" y="382" fill="#067">-</text>
+<text x="198 204 210 228 330 342 384 504 510 516" y="382" fill="#2df">|/\\//\/\|</text>
+<text x="330" y="393" fill="#056">-</text>
+<text x="192 198 204 210 216 324 336 384 390 396 498 504 510 516" y="393" fill="#2df">/|/-\/||-\/-\|</text>
+<text x="192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522" y="404" fill="#2df">/||/\\\---------------\|||----------------//\||\</text>
+<text x="216 252 264 270 450 456 462 498" y="415" fill="#078">=+=+=++=</text>
+<text x="258" y="415" fill="#079">+</text>
+<text x="276 282 432 438 444" y="415" fill="#089">+++++</text>
+<text x="180 186 192 198 204 210 222 228 234 240 246 288 294 300 306 312 318 324 330 390 396 402 408 414 420 426 468 474 480 486 492 504 510 516 522 528 534" y="415" fill="#2df">||||||\\\\\|//--\||||/-\\|//-//||||||</text>
+<text x="360" y="426" fill="#034">.</text>
+<text x="228 306 480 486" y="426" fill="#067">-===</text>
+<text x="222 492" y="426" fill="#078">==</text>
+<text x="408" y="426" fill="#079">+</text>
+<text x="312" y="426" fill="#089">+</text>
+<text x="180 186 192 198 204 210 216 234 240 246 252 258 264 270 276 288 294 300 318 324 390 396 402 414 420 426 444 450 456 462 468 474 498 504 510 516 522 528" y="426" fill="#2df">||\\\|\||///---\\|||||||//--\\|||||/||</text>
+<text x="360" y="437" fill="#056">-</text>
+<text x="312" y="437" fill="#067">-</text>
+<text x="180 192 198 204 210 216 222 228 234 240 246 252 300 306 318 324 396 402 408 414 420 462 468 474 480 486 492 498 504 510 516 522 528" y="437" fill="#2df">||\\\\-/////||||||/||\\\\--/////|</text>
+<text x="270 438" y="448" fill="#034">..</text>
+<text x="264" y="448" fill="#044">.</text>
+<text x="276 288 444 450 456" y="448" fill="#045">:::::</text>
+<text x="258 282" y="448" fill="#056">:-</text>
+<text x="360" y="448" fill="#067">-</text>
+<text x="312" y="448" fill="#068">=</text>
+<text x="186 204 210 216 222 228 234 240 246 252 300 306 318 324 396 402 408 414 420 426 432 462 468 474 480 486 492 498 504 510 522 528" y="448" fill="#2df">|-\---////|||||||||\\\\\----//||</text>
+<text x="282" y="459" fill="#034">.</text>
+<text x="516" y="459" fill="#045">:</text>
+<text x="192 312 402" y="459" fill="#078">===</text>
+<text x="186 198 216 222 264 270 276 288 294 300 306 318 324 330 336 342 348 354 360 366 372 378 384 390 396 408 414 420 426 432 438 444 450 498 522 528" y="459" fill="#2df">||--\||-/||\\\\--/----///||\\\||/-||</text>
+<text x="318" y="470" fill="#078">+</text>
+<text x="402" y="470" fill="#089">+</text>
+<text x="186 192 198 204 276 282 288 294 300 306 312 324 330 336 342 348 354 360 366 372 378 384 390 396 408 414 420 426 432 438 510 516 522" y="470" fill="#2df">\\//||//|||\\\-------///||\\||\-/</text>
+<text x="492" y="481" fill="#034">.</text>
+<text x="396" y="481" fill="#068">=</text>
+<text x="318 324" y="481" fill="#079">++</text>
+<text x="330 384 390 402" y="481" fill="#089">++++</text>
+<text x="222 234 276 282 288 294 300 306 312 336 342 348 354 360 366 372 378 408 414 420 426 432 474" y="481" fill="#2df">/\|||||||\\\--///|||||/</text>
+<text x="318 360 378 396" y="492" fill="#078">=++=</text>
+<text x="342" y="492" fill="#079">+</text>
+<text x="324 330 336 348 354 366 372 384 390" y="492" fill="#089">+++++++++</text>
+<text x="222 228 234 240 276 282 288 294 300 306 312 402 408 414 420 426 432 438 474 480 486 492" y="492" fill="#2df">|/-\||||||\//|||||/-\|</text>
+<text x="318" y="503" fill="#056">-</text>
+<text x="306 342 378 396 402" y="503" fill="#067">===-=</text>
+<text x="312 324 336 348 372 384" y="503" fill="#078">===+=+</text>
+<text x="330 360 366 390" y="503" fill="#079">++++</text>
+<text x="354" y="503" fill="#089">+</text>
+<text x="222 228 234 240 276 282 288 294 300 408 414 420 426 432 438 468 474 480 486" y="503" fill="#2df">||-\|||||/|||||//\|</text>
+<text x="318 336 384 402" y="514" fill="#034">....</text>
+<text x="360" y="514" fill="#044">.</text>
+<text x="234 288" y="514" fill="#045">::</text>
+<text x="330" y="514" fill="#055">:</text>
+<text x="354 396 426" y="514" fill="#056">---</text>
+<text x="312" y="514" fill="#067">=</text>
+<text x="366 390" y="514" fill="#078">++</text>
+<text x="324" y="514" fill="#079">+</text>
+<text x="306 348 372 408" y="514" fill="#089">++++</text>
+<text x="222 228 240 246 270 276 282 294 300 342 378 414 420 432 438 468 474 480 486" y="514" fill="#2df">||\\|||||||||||//||</text>
+<text x="474" y="525" fill="#045">:</text>
+<text x="360" y="525" fill="#055">:</text>
+<text x="288 384 402 426" y="525" fill="#056">----</text>
+<text x="240 318" y="525" fill="#067">--</text>
+<text x="336" y="525" fill="#068">=</text>
+<text x="330" y="525" fill="#078">=</text>
+<text x="396" y="525" fill="#079">+</text>
+<text x="306 312 324 348 372 390 408" y="525" fill="#089">+++++++</text>
+<text x="222 228 234 246 276 282 294 300 342 354 366 378 414 420 432 438 462 468 480 486" y="525" fill="#2df">|||\||||||||||||//||</text>
+<text x="426" y="536" fill="#034">.</text>
+<text x="240 402 474" y="536" fill="#045">:::</text>
+<text x="318 384" y="536" fill="#056">--</text>
+<text x="360 396 468" y="536" fill="#067">=-=</text>
+<text x="324 330 336 390" y="536" fill="#078">===+</text>
+<text x="354 372" y="536" fill="#089">++</text>
+<text x="222 228 234 246 252 258 276 282 294 300 306 312 342 348 366 378 408 414 420 432 438 456 462 480 486" y="536" fill="#2df">|||\\\|||\\\\-\///|||//||</text>
+<text x="288" y="547" fill="#034">.</text>
+<text x="276" y="547" fill="#044">.</text>
+<text x="282 300 360 390 420 426 432" y="547" fill="#045">:::::::</text>
+<text x="234 324 330" y="547" fill="#056">---</text>
+<text x="306 384 402 414" y="547" fill="#067">==-=</text>
+<text x="246 318 396" y="547" fill="#078">===</text>
+<text x="462" y="547" fill="#089">+</text>
+<text x="222 228 240 252 258 264 270 294 312 336 342 348 354 366 372 378 408 438 444 450 456 468 474 480 486 492" y="547" fill="#2df">|||\\\-|\------/|-///|||||</text>
+<text x="342 390" y="558" fill="#034">..</text>
+<text x="360 372" y="558" fill="#044">..</text>
+<text x="288 300 312 330 402 414 426" y="558" fill="#045">:::::::</text>
+<text x="420" y="558" fill="#055">:</text>
+<text x="294 306 324 348 378 408" y="558" fill="#056">------</text>
+<text x="318 354 384 396" y="558" fill="#067">--==</text>
+<text x="336" y="558" fill="#068">=</text>
+<text x="252 366" y="558" fill="#078">+=</text>
+<text x="456" y="558" fill="#089">+</text>
+<text x="222 228 234 240 246 258 264 270 276 282 432 438 444 450 462 468 474 480 486 492" y="558" fill="#2df">||\||\\\\-////||//||</text>
+<text x="414" y="569" fill="#034">.</text>
+<text x="294 300 312 402" y="569" fill="#045">::::</text>
+<text x="390 420" y="569" fill="#055">::</text>
+<text x="318 330 342 348 360 372 384" y="569" fill="#056">-------</text>
+<text x="306 324 336 354 366 378 396 408" y="569" fill="#067">-=---==-</text>
+<text x="258 450" y="569" fill="#078">+=</text>
+<text x="222 228 234 240 246 252 264 270 276 282 288 426 432 438 444 456 462 468 474 480 486" y="569" fill="#2df">\\\\\|\\\\\////||////</text>
+<text x="306 318 330 342 348 366 372 384 402 414" y="580" fill="#045">::::::::::</text>
+<text x="360" y="580" fill="#055">:</text>
+<text x="300 312 336 390 396 408" y="580" fill="#056">------</text>
+<text x="264 270 282 324 378 444" y="580" fill="#067">=-=-==</text>
+<text x="276 432 438" y="580" fill="#078">===</text>
+<text x="240 246 252 258 288 294 354 420 426 450 456 462 468 474" y="580" fill="#2df">\\\\\\////////</text>
+<text x="276 420" y="591" fill="#056">--</text>
+<text x="294 432 438" y="591" fill="#067">-=-</text>
+<text x="282" y="591" fill="#078">=</text>
+<text x="288 426" y="591" fill="#079">++</text>
+<text x="252 258 264 270 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 444 450 456 462" y="591" fill="#2df">\\\\--------------------////</text>
+<text x="288" y="602" fill="#067">=</text>
+<text x="294 300 306 408 414 420" y="602" fill="#078">=+=++=</text>
+<text x="258 264 270 276 282 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 426 432 438 444 450" y="602" fill="#2df">\\\\\----------------/////</text>
+<text x="378" y="613" fill="#078">+</text>
+<text x="306 336 372 384" y="613" fill="#079">++++</text>
+<text x="312 318 324 330 342 348 354 360 366 390 396 402" y="613" fill="#089">++++++++++++</text>
+<text x="270 276 282 288 294 300 408 414 420 426 432 438" y="613" fill="#2df">\\\\\\//////</text>
+<text x="330" y="624" fill="#089">+</text>
+<text x="282 288 294 300 306 312 318 324 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426" y="624" fill="#2df">\\\\\\\\---------///////</text>
+<text x="300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408" y="635" fill="#2df">\\\\------------///</text>
+<text x="318 324 330 336 342 372 378 384 390" y="646" fill="#2df">---------</text>
+</g></g></g></g>
+<g mask="url(#scrMask)">
+<g><text x="282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402" y="30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 668 668 668 668 668 668 668 668 668 668 668 668 668 668 668 668" fill="#00d9ff">]/$1&lt;=&gt;#?1+|1&lt;%%&lt;{&lt;=%1?&gt;{?1??$1{1=/[%/=&gt;?[=\&gt;??|#&gt;=&lt;?1|*=%]&amp;?&amp;#[{\{&lt;?[+*]&amp;[&lt;&gt;+%\]/*%1&lt;=?]]#*?&amp;&lt;&lt;}*&lt;1[?&amp;[$#0&amp;#\&gt;*1|[/{$$*&lt;\&amp;$=}/%=}%#${/&lt;\/{{0*?\}[0/%=#?]/+1&amp;=$$$$&gt;*$1|&lt;|&amp;\&gt;]1&gt;0?/=&gt;#0&lt;|$/}##*&gt;&gt;*&amp;**[&lt;/&gt;]}*\+0|+#/=0+[&lt;}+#\#{==+]{|{${|+*#00}*}|#&amp;##&lt;{&gt;{*|]|*0*#&lt;&gt;$|*\%]&lt;$&amp;$&lt;\\/0/?&amp;/*#/==/00&gt;+/%||0}|[+{?]}=%/1#&amp;?+%+/=/++0&amp;\0/\/*&gt;=1]++=*&gt;=1{|}1&gt;+&amp;=0&lt;&amp;]++|}&amp;+=*+{+}=|&amp;/%&gt;$&amp;]&lt;{%&lt;|[&gt;/#/}/&amp;{&gt;$*\{\%+$]%|#]&lt;#0]=&amp;&amp;0$]+[+&lt;&gt;{&gt;&lt;}}1\}/%}$/=+?*]&lt;}1\%&lt;}0&lt;}&lt;{&lt;}&gt;&amp;0]=%}/1+{&gt;\}1\|[[+|[&amp;+\}#0}100+=|+*{&amp;&gt;%*=$+[|{]|/$#1/0&lt;}%\1&lt;$+[{[1&amp;\\}&amp;0}#]=]{1[|#\0]$&lt;*}+|{+0&lt;}&lt;/$?1$0[[{&lt;?+/$]*/[/1+%+/++?0?{&lt;01/#&gt;$&amp;=10={*}0&amp;&lt;+=&lt;+&lt;*}&lt;}{|{&amp;*$&lt;*[1|&lt;/]}[?/0*1*}&gt;|*[+[&amp;&amp;&amp;&gt;=|[&lt;*0[&amp;&lt;+&amp;}$||&lt;?&lt;/+}#/+}&gt;#{**$0\0*&amp;$[/%#$]&gt;]0]]$&gt;|0[}#&lt;$$?&lt;#%}1}&gt;1[/{}%+]|#%0$==|&lt;1%&amp;/[*1=/\*%][[}}${[*=$&gt;\\&lt;|+*={&amp;]&amp;%/=|{&lt;\]=&lt;]{#}?|0%$%+|$}]1*}?#/++|&lt;}{$$&amp;%[0/1%*?*0&lt;$+&amp;&amp;{&gt;{//+&gt;&amp;&lt;=10/{?1[/}+%&gt;&gt;&lt;[+?|$}{00=[&amp;}]{*+{={0%[10|*%&lt;}{%#{*1]%#$|0[+&lt;|*|[|{&amp;{}[&gt;*\{*%1/$1|0/%11\$&amp;]&gt;&lt;\]|\+&amp;1[$#]&amp;\&gt;0&lt;}&lt;#%&gt;=|$#[%&lt;1*|#=&amp;|]#*0%{$1$1&amp;&lt;1}|&lt;]#}]1}]}[0&lt;0{&gt;*&amp;$}%*/*\0[/{]]&amp;#&lt;+|$\{%&lt;1*==]\%&gt;&lt;}&lt;|&gt;%*&amp;\{/%&amp;{=&gt;[[}?}#}}|&amp;{\{{/[?|]&lt;$}{++{&gt;&amp;1&gt;0*{&amp;#1[{&gt;1|?|&lt;#+\&amp;}0&gt;#|1#]/1|}1|0]%#\[&lt;|1*=*&lt;%&gt;$=/=&lt;\$}%[[%1[?#%%0#|$$|0%\%&gt;&lt;$?#&amp;\/01=/$&lt;?#+\/#[\+\&lt;&gt;$*|[/1*]1$&lt;\{$|*\?|1$+\$#&gt;/{|1=1]&gt;$&amp;=[%[?{%$#&amp;+&amp;\00*&amp;{&amp;&amp;\*$&gt;&lt;/#%#&lt;&amp;++11/&lt;]+&lt;1+$/0&lt;&gt;|/*[\{&lt;#}\]}&amp;/}+*|?}+{]#1|\$\}]$\}&gt;+1#&amp;=+?&gt;}=$#}$#?/#]&lt;&amp;{\1[+}[?]01{/[%%+#1/*{1010?#[&gt;+#={%?[?/|#*\/0{/&amp;&gt;&lt;/}$}01=#?&amp;+*{\011=0$\{\1&gt;0=|/%|++%\+[&lt;[1*=0$%&amp;&lt;&amp;\{&gt;}{1&gt;]}1}=%+}[|&lt;+0\}{|\]|$]{$=**+00%{?[|$?&lt;?\/10&gt;&gt;\#/001/1&lt;1&lt;?#|=&lt;$&gt;{||&gt;11&lt;[*&gt;/&gt;|[]]%}0#}[1#]+*[0%0%+&gt;#*1=?|&lt;?[\%0+|[10#*&gt;*\*?#+}?\[|{*\&gt;&lt;*=&gt;]#&gt;$$&lt;%0#|[}%=+\${&amp;/=1#?]+/&amp;=]\&amp;&amp;}?{/]&amp;{+|}[//{]+#\{]|}&gt;\&gt;|$//[[%}|&gt;&gt;}|$&amp;10$%{+[&amp;0/}$0{%??%{?{\&gt;&amp;%]}&gt;%{$\}%*&amp;0%+\]0$*&gt;1}=|\|+#&gt;?&amp;=|*+0#+]%&amp;|\$+&gt;#1}}$$10&lt;%%#?}&gt;{[$+{$&amp;|\/&lt;|*={/#%&amp;[=/*#{}$}%\*0}#{[]**%&lt;#/[$1&lt;?]/+#?00|&lt;[}&gt;?/{\&amp;#/|$=\&lt;=[|*|+&lt;&amp;&gt;=&gt;}%{/**=1*&amp;/*{*\=0\]&amp;?*[&amp;#%%&lt;\#001]&gt;+**/1|%/]&gt;#]*+=|[%]%}=1[[#*$]+}+#|*&gt;]|][/?&lt;1$=$=?1$[&gt;01|*1+=$/&lt;|1&amp;\&gt;\1%&gt;0#/[=}[\%1]0%??1*?+1&gt;%?$&amp;&lt;0$?/*%=&gt;&lt;*|/0%00&gt;&lt;|&gt;/*0}?{&amp;\1#/&lt;[=*&amp;}11010&lt;$[[\*1]#?&amp;*\/&gt;#\%*$&amp;}?][}1]0/[?%{$$${&amp;[0]}}%\?1[/?/}=*#=&lt;==*$|{[1$&amp;|}?0$&amp;=&lt;=#&lt;{$?+}+]*+?||||&lt;\[#??#$+/{1*#&gt;#&amp;&lt;/]0#}+0&gt;1|?*??|}}%&gt;&amp;?/}1]|\$&lt;011=#&amp;*&lt;$&gt;&lt;}]?{&lt;+$\&amp;\#{{\1}#1=01}+*1&gt;/]0|[??&amp;&gt;*]#}$&gt;#*$\&amp;{/0&amp;|1\{&lt;#/&amp;&gt;$0&lt;&amp;]]{*&gt;#/]{1\&amp;=/&amp;/}%%{/0}?[]\}*&gt;]&amp;*&gt;/+1|=*[&gt;}|#%}{{&gt;$[%\1[/0&amp;+]+/&amp;0+[\#%1%|}?\/\+{\|&lt;&lt;*}\|/|?[|0&lt;+%1+#][*&lt;0%*/}{\?#1\#?0#+&amp;+&lt;&gt;#{]$?1[&gt;*&amp;+0+=/0{&lt;{\\&gt;[}=00&gt;|}0?&amp;+{&amp;&gt;#&gt;\1}&gt;&amp;*?+}&gt;&gt;&gt;$/=?{{/?&amp;$\0$%+1$1#]${]%?]$=1]+/#{%0#&gt;+\&lt;]%|+0{/%$&amp;111}}=1&gt;}&gt;+0%{1[&gt;[#\&gt;1+}&lt;&amp;?=/&amp;&gt;+/[%?[}{&lt;=[&amp;?{$|=#&amp;=[**[0{]{|+=$?$0#\{]=]*}[|[10\=&lt;#&amp;1+$&amp;#&gt;+{/%]#/|}+&gt;*}/%&gt;0%=?&gt;*$?/%}&gt;$&amp;&amp;[#[#$+=$]0*$&amp;[\=[/%?$?{&lt;]]{]|%001}?*[=[=%++%$&amp;#1#&amp;0&lt;+{&gt;%#+$=?/|%*$&amp;?]+&lt;\#]#&lt;[+\&gt;[]+%\+[+|+|%\1?&gt;#?1%00[=0[$&gt;?00|\*=?}=+/?|%&gt;/\++&gt;0&gt;&lt;\+*&amp;%10?]/{#}\1}&gt;?&lt;#|&amp;$01{$?1&amp;1{{{1\?\]0&amp;[%}*&lt;{$?{%[$*0{&lt;\\#$\0[$=#&gt;]=$]$&lt;&gt;%#={$|&amp;[#{%1}0]/{/&lt;|}=/=&amp;&amp;{\##|$$?|[*+|{&amp;/}&amp;?#={$+|/&gt;+&lt;=}$0?/[0$&lt;\{]|&gt;&lt;=#+[|&lt;[&lt;{[/$[#$&amp;/}\0##%0&amp;{$#&gt;\[&gt;}{1$1\%|[/$1=[\?{?*+}%?#0&gt;[1?1{&gt;1]|#&lt;%${}+&lt;#%&amp;]+&amp;+1|%+/*|1=}\=\{=}{1\##%&lt;|[//**{{0+&amp;/#[//??{]&gt;=%\/&amp;$|&gt;[0#*|11}[|&gt;[&amp;&gt;\]&amp;&amp;?#[\=&lt;10&amp;*&lt;]?}&gt;*%*|=]0#&lt;[}{&lt;/00$/[#\+\&gt;[]$\#]{#/=#}{11&gt;?$1|*%*\[?&lt;/{\/&amp;$&lt;1&amp;*||#01+%/[&lt;1+%]&lt;&amp;0\\$[0&amp;?#?|*&lt;=]+&amp;%=/$&lt;1][??%#*/[]+0|{&amp;&lt;/?#=?%#+{?&amp;$}&gt;{\|=&gt;{}&gt;|+}*{=&amp;{=?&gt;+??&lt;%&lt;&amp;/+=+&gt;+&gt;&amp;$=\|?*&lt;/#1${1#10|&amp;[&gt;/%&lt;|?&gt;#\#]0}&gt;{#++#*1#&gt;#=]&gt;1{}#|&amp;0?&amp;&gt;0*&gt;&lt;}\/=[$/?}=}&amp;00]/*+*11&lt;\$*\&amp;${+&lt;#]+|[/?1|\#&amp;]?&amp;$#]0]?*]{0{&amp;1//}$}&lt;+}#??+?/1=&gt;|%?&gt;#[{/&lt;[]#+{#=$]1]]*+#{{#//|0&amp;$&amp;$?[\?&lt;/[[}?=]&lt;|?&lt;?\[?#&amp;#%&lt;*]\}}=0\}{0|1$&amp;|[+&gt;|{1/1&lt;&lt;?]/0|}=0]0|]]0*$]\1%1&lt;]*$}&amp;00]?]1%]\&lt;0/|/+&lt;##%#=?=/?]{}*1[=&amp;=}#++}/}0=*&gt;#/{$&lt;0/&gt;1=+|=\}#/\\+0#{&amp;*|#$&amp;|]0&gt;0&lt;$#1{?$%${0}0}%{{#|]%}[*|?\*}/[[&lt;]0*{\]&amp;|?1|#1&amp;\%/[0&gt;/0/[/+#&gt;\&amp;$&lt;%]$]1?{|01/+{?%&gt;01]&lt;&gt;&gt;*/+%0\{=/=+&gt;+#*&lt;#|{&lt;}\0}}&lt;1|+1%=#}0]1&amp;=[=]%}$%]=%$/$$%/0{+}${|&gt;&lt;11$=]&amp;=]&amp;?0**+]?=${$#&lt;$+}]&lt;={}}*#+?*?</text><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="0.24s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 600 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 594 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 120 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 588 126 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 582 132 138 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 576 144 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 564 570 150 156 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 552 558 162 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 546 168 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 540 174 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 534 180 186 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522 528 192 198 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 204 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 210 216 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 222 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 474 480 246 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 252 258 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 312 318 324 330 336 342 348 354 360 366 372 378 384 390 396 402" y="30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 63 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 96 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 107 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 118 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 129 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 140 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 151 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 162 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 173 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 184 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 195 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 206 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 217 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 228 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 239 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 261 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 272 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 283 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 294 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 305 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 316 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 327 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 338 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 349 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 360 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 371 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 382 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 393 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 404 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 415 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 426 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 437 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 448 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 459 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 481 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 492 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 503 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 514 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 525 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 536 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 547 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 558 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 569 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 580 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 591 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 602 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 613 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 624 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 635 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 646 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 657 668 668 668 668 668 668 668 668 668 668 668 668 668 668 668 668" fill="#00d9ff">{/&lt;+#+|+\#{\/&amp;\1]$#%&gt;%/}$&gt;##++[&amp;&lt;}$[&amp;&gt;&amp;*\+/0/#*+{#+]$}0=|0?}1?\[=}]}{}&amp;&lt;+*&lt;|/%[#1&amp;$#1[%%}#{$?/|?#&lt;|]&lt;&lt;&amp;$$+%*0&gt;??&amp;&amp;%%*\&lt;&amp;$*/+0{|$=1[=]$&amp;&gt;&lt;{&lt;?0&gt;*&lt;|?&amp;1|]*1=%?/%1/]]|+0\=}+}&lt;]$}[=$+%1[[{$%=}[|/1|=#&amp;*?/#]|&amp;=1]0=&lt;%?]1}{&amp;[||?&amp;$&amp;||1\%&gt;1/&lt;*\0=\*{[|=\/|+&gt;&amp;&gt;|&lt;1%{}&amp;%/1/1\&amp;[{?]=/[}]=|/{$1]$/[{=&lt;|&amp;/\%]$&gt;1#&gt;|++&lt;[*#0*&lt;|*}[?=&lt;|/*}{?[1?&gt;0#|/[1\]#&amp;*{]#\&gt;[&lt;=&amp;&gt;=&gt;\$&amp;111+?&gt;%/%?#&lt;#\#\&lt;]0*[/}&gt;&gt;{&gt;/*}==&gt;]&amp;{\?=1+}#|[$=|/{=+{&gt;0&gt;1*?|{&lt;\/}0%$+&gt;[?&gt;&lt;?|{{+1{&lt;]&gt;1|\[]&lt;&amp;?\0]%%1&lt;{/+\/#/||{]&lt;0*1*+]&lt;&lt;|1#%&lt;#?\**/}[1&amp;?\%$+[?=&gt;&lt;}{{|?&amp;={*?1$$]$$&lt;{]%[0[*0&gt;*%%[&amp;/]=|&lt;#$&amp;1[]&lt;}\&amp;%={&gt;|1$\$}]/#\{#$[*]+|\$+00\&gt;{&amp;?}#&gt;=+$/}%&lt;+]&amp;}[#[$+1**#01&gt;=$&amp;[+/&amp;1]*/0}/|??+1$\?}{[=0%=%&lt;$*#}]\?*1=#/|+1\[+\[1?[$#\}[*|]&amp;$&gt;}#$]$*}&gt;|&amp;+%\]1/}=*=%&lt;}$#$+[&gt;}&amp;01=?[##}{&lt;=&gt;%&gt;[\\&gt;$$]$$*]#\/=+%[/|]&lt;%&lt;+0?{?%$|?}//{{+&gt;[1$[/$}&lt;+}|{[&gt;#?&lt;#0+&lt;&gt;]|0&amp;/&amp;}+1&amp;?=11=&amp;&gt;*{[]]+?{|=|[?=0{\0+}%#&lt;}&lt;?&gt;$$+?%{1#=]}&lt;*?/%&amp;&amp;|]|&gt;$\[|&lt;+0&amp;||}|=[00&lt;#|%0=}=#\?]#[&gt;1\#%0&amp;&gt;]&gt;/#**&lt;]]*/&gt;+?}+$|#}0|}+%$\%//0&gt;|?=$00&lt;&amp;1|?=&lt;]]=&amp;*|0{|#$&gt;&gt;?/|&amp;&amp;??&amp;&lt;?1*\${**/&gt;*$&lt;{{0$?{1{&gt;|01&amp;1${{1=?%}1/&amp;0*&gt;&gt;\/+\+]&gt;+$0&lt;0=&lt;+==&lt;1=[&amp;$0=|0\+&amp;|&gt;|%&gt;&lt;=+#&gt;&lt;{&gt;&lt;#}[[[/*?]|0&lt;&lt;1&gt;|+$&amp;%?|&lt;010/%1\[&amp;}/}[#0]$&gt;\&amp;\*]}{0%=0]{=#]0{]&lt;=\&gt;1]%]#&lt;=&gt;&amp;\|+1={%+&lt;||[0}%&gt;\&amp;\[${]}0&lt;|}?/&lt;&lt;$[&lt;&lt;&lt;=0&lt;#&lt;/=&gt;*+}&amp;\&gt;}[$%\&amp;&gt;&amp;]]|0${&gt;|#]}0|&lt;&lt;\?[}\1/*&gt;1$}&lt;??{1&lt;[0}/##=\/#}##\+&gt;{\[$0{|{$#{*}01&gt;$#{[0*&amp;*&gt;&gt;&amp;=*&lt;$&gt;**\{%&amp;1&gt;|&lt;}#&amp;*{]=1&lt;+{*|?$&gt;1%+1{+\+]|&gt;&lt;*}&amp;&amp;/&lt;&amp;]&gt;|}#&lt;&gt;**}\+0+0*1={*/#/$]1#\{0&amp;&lt;&amp;|1[&amp;/|[]?|&lt;$0\0#*{&lt;*#+*|||*|[&amp;}{]1%\]%0?#\{0/}&amp;*==$/}{=&gt;}%//+/?]1\{%\&lt;?&amp;%}?{/}%&gt;1%&gt;0[&lt;[\/%&lt;+$[+?&gt;&amp;{*+?#+=|%&lt;?}?$\}{%#+}&lt;1*|]0&amp;*]\&amp;]{%&lt;|=%$/{##$*#/{|}&gt;1+/$%&lt;*?&amp;]?=##%]\*0\$#&gt;[=|{?|#[}\&lt;&amp;?1|0=%=}0&lt;0\&lt;{0\{\}{00&gt;&lt;&lt;|/*]&lt;+#][%*}]1&lt;}\}&lt;&lt;1}/]]+*/|=1/%$[0{[&lt;*&gt;&lt;?/|&amp;&amp;{&lt;*?%/0|?|&gt;&amp;{}+%+=]10{0{+[|&amp;|\|[}/\1{&amp;][$]+[1]&lt;[1]+{/\{&amp;0|]&gt;++#*+[&lt;&gt;&lt;$%*&lt;}+{&amp;]*%#=&amp;]1&gt;&amp;&lt;}/1=/&lt;&amp;1[&lt;]%+&lt;/$&gt;11[/+&gt;&lt;]\=%\{\$%]#&gt;{&amp;=&gt;&lt;}$*{\[&amp;$|/|*&gt;+]{0}+*/]]\]|%10{?#0}11]{]}#[##$$[&gt;{0%?{1\/[}+]$%[/{=]1#\]/=1=&amp;]*&amp;|]#{&lt;&gt;&gt;]00{#&lt;&lt;*1|&amp;$[*$[?*]#[#?&gt;?+&lt;*&amp;%0{||#=#&gt;?1&amp;??%0/%&lt;\+[+#&gt;{1{#%\$&lt;%|][]+\*=+0/$=\\0=&gt;?#11|+0+|+&amp;/=|//&amp;0%/}}{%|+&amp;1&lt;0]\{=}{+\{\|?&gt;&amp;|}%+1*0&amp;&lt;&lt;=%/]&amp;\|=]%{|{\%#%[[\|&amp;&lt;/|?]&gt;+[\%*&amp;?**}*+|*?+/+\{&lt;#$&lt;$&gt;#%]#$/&amp;?=01*#+$%[\=0/#$]??{]\==$\[&gt;/0]*&amp;*}#+0#==]*&gt;]}$?}0#$&lt;#=0}][*\$0&lt;||1//[{{1%}&gt;&gt;/==&lt;/%|1*$%&lt;\/[1&lt;1\&gt;10]\&gt;&amp;\&gt;\|#|#&gt;%]$%}&amp;{*0\\\/#1&amp;+1&amp;=?0&amp;&amp;0]$+/1=+/*\$\0++0#%|?$%]*?\]$|}|0?]]=}]\?=*}&lt;*1/%&lt;?%[?+%0&lt;?/&gt;$}&gt;%&amp;}&lt;&amp;#&gt;1*[|&lt;}}#|+++%?}&amp;]$*&gt;1/[1=/#${}+1&amp;*0&lt;&lt;1|&amp;*&lt;[]\/&gt;\+}]\\{*{}}1{\[&lt;$=&amp;|&gt;%*]1${&amp;*+|}\+&gt;=]$\/***}?#&gt;=*?]\]&gt;#$&gt;/*?[]$?=\]0]|&amp;&gt;[&amp;#?#*|=\#||[[{?&lt;%0|=&lt;|++&gt;{&gt;[&gt;|?0}1%&lt;}]?0+%#?=\0?|\{&gt;|&gt;}?+]$$0&lt;%&gt;}+/%#001%=$\##=/##}=/\\//&gt;?&gt;\[+??&gt;=*%&amp;=01{%/{0{#{&lt;*?$%]*1{1&amp;+{1\|&lt;}&lt;]&lt;]&lt;%[&lt;+&amp;{/\[%]&gt;+%\?1*&gt;\1[+1]1&gt;+|+$\{|%}&amp;&lt;{&amp;0{$&gt;|%&lt;=[#]{}]{1$%%&lt;/&lt;&lt;1=|}&gt;$+*}|&gt;*?&amp;[&lt;?*//&lt;*%/0\?1&lt;&gt;]{1{?}#\#%}\&amp;&amp;\0/&lt;=%{/}&gt;&gt;$&lt;{0/1#&lt;[?]=?&amp;?=|[+|*]/##+=?{}+/+0%%\1=[}&gt;&amp;#+*{+=$=[[$1}*]|&amp;#[&amp;#&lt;#|{%}#0}=1]#%1%+[{]]*&gt;\*&gt;#|}*1/]%&amp;[%/]/\\#}1{]1\1%%|/#+&gt;&gt;}&amp;+$}0$$\$0#&gt;]]/1||0??{[&gt;|{{*??]&gt;1?]+&lt;+&amp;&gt;{|&amp;[%#0{&gt;]${%{]?{$1+=[}**&amp;01$&amp;{\*=$\&gt;}&amp;&lt;[&amp;|0&lt;&lt;&lt;\#0%%+&amp;[#+#\&gt;++*&gt;#[=|{$#]=?}[&lt;#&gt;#=]/]&gt;]\%0#{$0\|=&amp;#$}{\&amp;\#10${]$1*=*|=\&lt;\\}+/\+][==/*&gt;/}[[|=?{&amp;]?/#*&amp;=\1&gt;&lt;1?+/}&lt;\+00{&amp;&lt;&amp;={\|]]0/]#&lt;&lt;0&gt;1\[}[&lt;|&amp;}=01[{[&lt;=*/$=&amp;$&amp;|{}}+{/[$1{&gt;|&amp;#&amp;+#+*0#$|\#*$\+/%\*+||{#?&gt;}}#&gt;*[$??|]%0[}/==?/\[&gt;%&amp;%%|&gt;/%\+/]{%$}/&gt;\?|\*?=|&amp;+*&gt;0|&amp;1?&gt;=%|[{?\##&gt;*&lt;\[/}=&gt;1?1|{|&lt;}}&lt;}*\}0[&amp;{#{%&gt;{0&gt;]&gt;&amp;*0{|#1]$%=${[%&lt;+&amp;%?+*}\%%|1=|&amp;?{=+&gt;&lt;#%00}*\|*/[%|/$0[0$&amp;]+{]&lt;/1&lt;[1[[=\&gt;&lt;&lt;[0#\$+%&gt;&gt;+&amp;[*&amp;$&gt;%{$|]*$$+=}&gt;?1&amp;}|/&amp;$}#/+\%/}{&gt;=0%&lt;1&amp;[?&amp;&lt;&gt;&gt;$[+0$#/*&lt;00/+{&lt;&lt;=|+&lt;/[%&amp;}?{]1?&gt;=%[1&gt;&gt;%&lt;?|?}*[\?%0[&amp;?][=}+&lt;&gt;+*]{#&gt;]++[[#{%+}{%&amp;}|/=/=0&lt;}\#}|$&amp;\&gt;[&gt;\*+%1|$$%|#=[$?$+$|$/+]=&amp;1&lt;{&lt;=\#}&amp;*][#\=\\&lt;/?+|*]&gt;+//={][[&lt;}|$0%{$&amp;0&amp;$0&gt;{$}{0?&gt;&amp;%?+&lt;{&amp;[|1#?1&gt;?0?*=/$/=&amp;}#$\|&lt;?]%|[?]1+#+&gt;1]}}}%+&amp;&amp;&amp;&amp;?]&gt;\&gt;{/|/|*]|]&amp;*1\1\&amp;&lt;&lt;&amp;00*%+&lt;%{/1?%{][*%$1+0]1%|{]00&gt;1%**#&gt;?$?]0$}%&lt;*=+$&gt;*&gt;$&gt;*%+0&gt;*[1%}0*{#?&amp;$&gt;[1][={?$?0%&amp;=?/*[=1[0/]1{0\}{${+]?/&gt;{&amp;+$#/&amp;\=[#0+}*1&gt;\0$=&lt;]]&lt;/$/[=1?&gt;&amp;+/*&gt;|/[{01}&gt;\&amp;+]/\]$/?&amp;}}=\/#/</text><animate attributeName="opacity" values="0;1" calcMode="discrete" dur="0.24s" repeatCount="indefinite"/></g>
+</g>
+<rect y="-44" width="720" height="13" fill="#00d9ff" opacity="0.06"><animate attributeName="y" values="-44;759;759" keyTimes="0;0.35;1" dur="9.7s" begin="2.4s" repeatCount="indefinite"/></rect>
+<rect x="-720" y="-715" width="1440" height="1430" fill="url(#shade)"><animateMotion path="M445,456 C442,408 469,310 472,272 C474,235 474,210 459,231 C444,252 380,401 384,398 C387,396 494,199 479,215 C464,231 291,439 293,497 C295,555 466,569 492,563 C517,556 449,504 445,456Z" dur="23s" repeatCount="indefinite"/></rect>
+<rect x="-180" y="-180" width="360" height="360" fill="url(#glow)" style="mix-blend-mode:screen"><animateMotion path="M445,456 C442,408 469,310 472,272 C474,235 474,210 459,231 C444,252 380,401 384,398 C387,396 494,199 479,215 C464,231 291,439 293,497 C295,555 466,569 492,563 C517,556 449,504 445,456Z" dur="23s" repeatCount="indefinite"/></rect>
+</g></g></g>
+</g>
+</g>
+</svg>
